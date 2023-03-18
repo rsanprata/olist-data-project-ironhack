@@ -1,0 +1,160 @@
+"dates","seller_category","seller_tier","count_sellers"
+"2017-01",new,big seller,9
+"2017-01",new,medium_seller,39
+"2017-01",new,small_seller,179
+"2017-02",churn,medium_seller,1
+"2017-02",churn,small_seller,18
+"2017-02",new,big seller,3
+"2017-02",new,medium_seller,40
+"2017-02",new,small_seller,212
+"2017-02",ongoing,big seller,9
+"2017-02",ongoing,medium_seller,38
+"2017-02",ongoing,small_seller,161
+"2017-03",churn,medium_seller,5
+"2017-03",churn,small_seller,54
+"2017-03",new,big seller,2
+"2017-03",new,medium_seller,19
+"2017-03",new,small_seller,155
+"2017-03",ongoing,big seller,12
+"2017-03",ongoing,medium_seller,73
+"2017-03",ongoing,small_seller,319
+"2017-04",churn,medium_seller,2
+"2017-04",churn,small_seller,54
+"2017-04",new,big seller,2
+"2017-04",new,medium_seller,14
+"2017-04",new,small_seller,105
+"2017-04",ongoing,big seller,14
+"2017-04",ongoing,medium_seller,90
+"2017-04",ongoing,small_seller,420
+"2017-05",churn,medium_seller,3
+"2017-05",churn,small_seller,29
+"2017-05",new,big seller,2
+"2017-05",new,medium_seller,12
+"2017-05",new,small_seller,112
+"2017-05",ongoing,big seller,16
+"2017-05",ongoing,medium_seller,101
+"2017-05",ongoing,small_seller,496
+"2017-06",churn,big seller,1
+"2017-06",churn,medium_seller,5
+"2017-06",churn,small_seller,64
+"2017-06",new,big seller,1
+"2017-06",new,medium_seller,3
+"2017-06",new,small_seller,72
+"2017-06",ongoing,big seller,17
+"2017-06",ongoing,medium_seller,108
+"2017-06",ongoing,small_seller,544
+"2017-07",churn,medium_seller,1
+"2017-07",churn,small_seller,39
+"2017-07",new,big seller,2
+"2017-07",new,medium_seller,13
+"2017-07",new,small_seller,102
+"2017-07",ongoing,big seller,18
+"2017-07",ongoing,medium_seller,110
+"2017-07",ongoing,small_seller,577
+"2017-08",churn,medium_seller,3
+"2017-08",churn,small_seller,39
+"2017-08",new,big seller,1
+"2017-08",new,medium_seller,13
+"2017-08",new,small_seller,115
+"2017-08",ongoing,big seller,20
+"2017-08",ongoing,medium_seller,120
+"2017-08",ongoing,small_seller,640
+"2017-09",churn,big seller,1
+"2017-09",churn,medium_seller,6
+"2017-09",churn,small_seller,61
+"2017-09",new,big seller,1
+"2017-09",new,medium_seller,13
+"2017-09",new,small_seller,114
+"2017-09",ongoing,big seller,20
+"2017-09",ongoing,medium_seller,127
+"2017-09",ongoing,small_seller,694
+"2017-10",churn,medium_seller,6
+"2017-10",churn,small_seller,57
+"2017-10",new,big seller,1
+"2017-10",new,medium_seller,22
+"2017-10",new,small_seller,125
+"2017-10",ongoing,big seller,21
+"2017-10",ongoing,medium_seller,134
+"2017-10",ongoing,small_seller,751
+"2017-11",churn,medium_seller,6
+"2017-11",churn,small_seller,51
+"2017-11",new,big seller,3
+"2017-11",new,medium_seller,19
+"2017-11",new,small_seller,169
+"2017-11",ongoing,big seller,22
+"2017-11",ongoing,medium_seller,150
+"2017-11",ongoing,small_seller,825
+"2017-12",churn,big seller,1
+"2017-12",churn,medium_seller,4
+"2017-12",churn,small_seller,99
+"2017-12",new,medium_seller,12
+"2017-12",new,small_seller,78
+"2017-12",ongoing,big seller,24
+"2017-12",ongoing,medium_seller,165
+"2017-12",ongoing,small_seller,895
+"2018-01",churn,medium_seller,4
+"2018-01",churn,small_seller,71
+"2018-01",new,big seller,3
+"2018-01",new,medium_seller,15
+"2018-01",new,small_seller,123
+"2018-01",ongoing,big seller,24
+"2018-01",ongoing,medium_seller,173
+"2018-01",ongoing,small_seller,902
+"2018-02",churn,medium_seller,4
+"2018-02",churn,small_seller,82
+"2018-02",new,big seller,3
+"2018-02",new,medium_seller,6
+"2018-02",new,small_seller,111
+"2018-02",ongoing,big seller,27
+"2018-02",ongoing,medium_seller,184
+"2018-02",ongoing,small_seller,943
+"2018-03",churn,medium_seller,10
+"2018-03",churn,small_seller,84
+"2018-03",new,big seller,2
+"2018-03",new,medium_seller,14
+"2018-03",new,small_seller,97
+"2018-03",ongoing,big seller,30
+"2018-03",ongoing,medium_seller,180
+"2018-03",ongoing,small_seller,970
+"2018-04",churn,medium_seller,12
+"2018-04",churn,small_seller,77
+"2018-04",new,big seller,2
+"2018-04",new,medium_seller,25
+"2018-04",new,small_seller,175
+"2018-04",ongoing,big seller,32
+"2018-04",ongoing,medium_seller,182
+"2018-04",ongoing,small_seller,990
+"2018-05",churn,medium_seller,10
+"2018-05",churn,small_seller,126
+"2018-05",new,medium_seller,22
+"2018-05",new,small_seller,150
+"2018-05",ongoing,big seller,34
+"2018-05",ongoing,medium_seller,197
+"2018-05",ongoing,small_seller,1039
+"2018-06",churn,big seller,1
+"2018-06",churn,medium_seller,13
+"2018-06",churn,small_seller,142
+"2018-06",new,big seller,2
+"2018-06",new,medium_seller,10
+"2018-06",new,small_seller,179
+"2018-06",ongoing,big seller,33
+"2018-06",ongoing,medium_seller,206
+"2018-06",ongoing,small_seller,1047
+"2018-07",churn,big seller,2
+"2018-07",churn,medium_seller,23
+"2018-07",churn,small_seller,169
+"2018-07",new,big seller,3
+"2018-07",new,medium_seller,12
+"2018-07",new,small_seller,175
+"2018-07",ongoing,big seller,33
+"2018-07",ongoing,medium_seller,193
+"2018-07",ongoing,small_seller,1057
+"2018-08",churn,big seller,6
+"2018-08",churn,medium_seller,23
+"2018-08",churn,small_seller,321
+"2018-08",new,big seller,1
+"2018-08",new,medium_seller,15
+"2018-08",new,small_seller,139
+"2018-08",ongoing,big seller,30
+"2018-08",ongoing,medium_seller,182
+"2018-08",ongoing,small_seller,911

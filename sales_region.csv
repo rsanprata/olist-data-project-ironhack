@@ -1,0 +1,4298 @@
+"state","city","revenue"
+AC,brasileia,59.7
+AC,cruzeiro do sul,957.79
+AC,epitaciolandia,92.34
+AC,manoel urbano,194.99
+AC,porto acre,74.9
+AC,rio branco,13904.32
+AC,senador guiomard,409.98
+AC,xapuri,288.93
+AL,agua branca,63.8
+AL,anadia,379.89
+AL,arapiraca,8728.71
+AL,atalaia,89.58
+AL,barra de santo antonio,567.0
+AL,barra de sao miguel,155.98
+AL,batalha,214.79
+AL,belem,568.99
+AL,boca da mata,219.73
+AL,cajueiro,99.9
+AL,campo alegre,919.1
+AL,canapi,230.0
+AL,coite do noia,89.9
+AL,colonia leopoldina,477.98
+AL,coruripe,1222.3
+AL,delmiro gouveia,1125.8
+AL,dois riachos,104.99
+AL,feliz deserto,309.89
+AL,girau do ponciano,39.9
+AL,ibateguara,75.9
+AL,igaci,319.89
+AL,igreja nova,208.0
+AL,inhapi,979.9
+AL,jequia da praia,251.91
+AL,junqueiro,360.89
+AL,lagoa da canoa,160.99
+AL,luziapolis,129.99
+AL,maceio,44652.49
+AL,mar vermelho,519.98
+AL,maragogi,1897.05
+AL,maravilha,214.8
+AL,marechal deodoro,349.9
+AL,maribondo,49.9
+AL,mata grande,378.65
+AL,matriz de camaragibe,64.0
+AL,monteiropolis,159.9
+AL,murici,49.9
+AL,novo lino,79.9
+AL,olho d'agua das flores,254.48
+AL,palmeira dos indios,1094.41
+AL,paripueira,349.9
+AL,passo de camaragibe,41.98
+AL,pau d'arco,92.9
+AL,paulo jacinto,368.89
+AL,penedo,1239.87
+AL,piacabucu,228.9
+AL,pilar,99.7
+AL,pindoba,432.0
+AL,porto calvo,323.39
+AL,porto de pedras,179.9
+AL,rio largo,562.71
+AL,santa luzia do norte,23.8
+AL,santana do ipanema,249.9
+AL,santana do mundau,1052.8
+AL,sao bras,29.9
+AL,sao jose da laje,219.9
+AL,sao jose da tapera,109.9
+AL,sao luis do quitunde,239.3
+AL,sao miguel dos campos,813.36
+AL,sao sebastiao,2159.98
+AL,satuba,333.73
+AL,tanque d'arca,578.0
+AL,taquarana,146.99
+AL,teotonio vilela,2168.68
+AL,traipu,42.99
+AL,uniao dos palmares,259.99
+AL,vicosa,21.9
+AM,coari,1190.65
+AM,humaita,285.85
+AM,itacoatiara,57.98
+AM,manaus,20652.56
+AM,urucurituba,169.8
+AP,laranjal do jari,318.8
+AP,macapa,11451.92
+AP,oiapoque,385.0
+AP,porto grande,29.99
+AP,santana,1202.64
+AP,vitoria do jari,85.95
+BA,abaira,157.99
+BA,abare,185.19
+BA,abrantes,678.0
+BA,acajutiba,28.89
+BA,adustina,74.8
+BA,alagoinhas,6249.23
+BA,alcobaca,1289.78
+BA,amargosa,54.99
+BA,amelia rodrigues,372.39
+BA,america dourada,169.9
+BA,anage,63.8
+BA,andarai,79.9
+BA,andorinha,691.1
+BA,angical,269.9
+BA,anguera,99.0
+BA,antonio cardoso,369.89
+BA,antonio goncalves,34.9
+BA,apora,44.9
+BA,aracatu,75.99
+BA,araci,277.87
+BA,aramari,167.4
+BA,arataca,795.0
+BA,arembepe,429.7
+BA,aribice,42.0
+BA,arraial d ajuda,72.62
+BA,arraial d'ajuda,779.42
+BA,baianopolis,416.3
+BA,baixa grande,44.0
+BA,banzae,99.99
+BA,barra,143.9
+BA,barra da estiva,860.57
+BA,barra do choca,799.0
+BA,barra do mendes,323.99
+BA,barra do tarrachil,272.9
+BA,barreiras,11162.63
+BA,barro alto,91.99
+BA,barro preto,118.8
+BA,barrocas,99.99
+BA,belmonte,37.99
+BA,belo campo,174.47
+BA,biritinga,120.0
+BA,bom jesus da lapa,2829.63
+BA,bom jesus da serra,279.89
+BA,boninal,717.7
+BA,bonito,378.8
+BA,boquira,69.9
+BA,botupora,325.0
+BA,brejoes,124.9
+BA,brejolandia,13.98
+BA,brotas de macaubas,168.0
+BA,brumado,2748.75
+BA,buerarema,1420.8
+BA,buritirama,251.9
+BA,cabaceiras do paraguacu,31.9
+BA,cachoeira,479.79
+BA,cacule,529.78
+BA,caem,57.9
+BA,caetite,1892.3
+BA,cairu,58.99
+BA,caldas do jorro,370.0
+BA,caldeirao grande,354.8
+BA,camacan,1134.67
+BA,camacari,7294.22
+BA,camamu,1506.82
+BA,campo alegre de lourdes,99.99
+BA,campo formoso,3419.13
+BA,canapolis,13.65
+BA,canarana,107.9
+BA,canavieiras,799.8
+BA,candeal,144.99
+BA,candeias,1214.17
+BA,candido sales,396.79
+BA,cansancao,766.96
+BA,canudos,174.9
+BA,capela do alto alegre,39.99
+BA,capim grosso,547.89
+BA,caraibas,235.9
+BA,caravelas,356.4
+BA,carinhanha,348.9
+BA,carnaiba do sertao,54.98
+BA,casa nova,1126.19
+BA,castro alves,58.9
+BA,catu,1486.97
+BA,catu de abrantes,1135.99
+BA,caturama,84.99
+BA,central,119.5
+BA,chorrocho,49.9
+BA,cicero dantas,3010.05
+BA,cipo,179.0
+BA,coaraci,1201.88
+BA,cocos,49.99
+BA,conceicao da feira,603.99
+BA,conceicao do almeida,99.0
+BA,conceicao do coite,997.89
+BA,conceicao do jacuipe,177.89
+BA,conde,819.0
+BA,condeuba,56.99
+BA,coracao de maria,279.9
+BA,cordeiros,322.75
+BA,coribe,654.97
+BA,coronel joao sa,587.99
+BA,correntina,130.99
+BA,cotegipe,84.99
+BA,cravolandia,139.9
+BA,crisopolis,214.6
+BA,cristopolis,63.41
+BA,cruz das almas,2044.14
+BA,curaca,308.9
+BA,dario meira,138.99
+BA,dias d avila,45.0
+BA,dias d'avila,2493.44
+BA,dom basilio,100.28
+BA,dom macedo costa,55.9
+BA,elisio medrado,79.82
+BA,entre rios,1103.4
+BA,erico cardoso,8.09
+BA,esplanada,1660.9
+BA,euclides da cunha,524.18
+BA,eunapolis,6924.81
+BA,fatima,451.9
+BA,feira de santana,27728.19
+BA,filadelfia,79.9
+BA,formosa do rio preto,1398.13
+BA,gandu,417.7
+BA,gentio do ouro,98.7
+BA,gongogi,29.99
+BA,governador mangabeira,98.0
+BA,guanambi,4589.57
+BA,guaratinga,42.99
+BA,heliopolis,149.0
+BA,humildes,249.99
+BA,iacu,285.8
+BA,ibiajara,45.0
+BA,ibiassuce,164.5
+BA,ibicarai,424.88
+BA,ibicoara,299.2
+BA,ibipeba,61.7
+BA,ibipitanga,349.98
+BA,ibiraja,277.95
+BA,ibirapua,122.99
+BA,ibirataia,52.8
+BA,ibitiara,118.9
+BA,ibitira,399.0
+BA,ibitita,1450.0
+BA,ibotirama,3032.39
+BA,ichu,160.98
+BA,igapora,39.99
+BA,igrapiuna,29.99
+BA,iguai,535.99
+BA,ilheus,8906.74
+BA,inhambupe,1117.78
+BA,ipecaeta,23.4
+BA,ipiau,787.21
+BA,ipira,3332.68
+BA,ipupiara,495.0
+BA,iramaia,154.9
+BA,iraquara,390.8
+BA,irara,171.89
+BA,irece,1729.52
+BA,itabatan,154.98
+BA,itabela,423.89
+BA,itaberaba,1089.16
+BA,itabuna,7874.55
+BA,itacare,841.39
+BA,itagi,111.89
+BA,itagiba,126.89
+BA,itagimirim,129.9
+BA,itaguacu da bahia,249.7
+BA,itaju do colonia,39.9
+BA,itajuipe,734.49
+BA,itamaraju,1474.13
+BA,itamari,268.98
+BA,itambe,368.6
+BA,itamira,55.9
+BA,itanhem,230.0
+BA,itaparica,168.49
+BA,itape,230.0
+BA,itapetinga,2727.12
+BA,itapicuru,137.33
+BA,itapitanga,205.7
+BA,itarantim,478.97
+BA,itatim,312.69
+BA,itirucu,653.28
+BA,itiuba,272.89
+BA,itororo,619.2
+BA,ituacu,398.5
+BA,itubera,100.73
+BA,jacaraci,911.79
+BA,jacobina,7079.66
+BA,jacuipe,13.98
+BA,jaguaquara,192.4
+BA,jandaira,59.99
+BA,jaua,149.9
+BA,jequie,4687.84
+BA,jeremoabo,922.08
+BA,jiquirica,499.99
+BA,joao dourado,19.9
+BA,juazeiro,7677.28
+BA,jucurucu,409.98
+BA,jussari,139.99
+BA,jussiape,37.0
+BA,lagoa real,410.0
+BA,lamarao,59.0
+BA,lauro de freitas,8954.88
+BA,lencois,218.0
+BA,livramento de nossa senhora,655.54
+BA,luis eduardo magalhaes,8442.87
+BA,macaubas,873.37
+BA,madre de deus,633.32
+BA,maiquinique,119.4
+BA,mairi,913.0
+BA,mansidao,49.0
+BA,maracas,703.64
+BA,maragogipe,152.8
+BA,mascote,122.4
+BA,mata de sao joao,1382.55
+BA,medeiros neto,660.24
+BA,miguel calmon,616.64
+BA,milagres,502.54
+BA,monte gordo,314.9
+BA,monte santo,23.21
+BA,morpara,357.12
+BA,morro de sao paulo,691.96
+BA,morro do chapeu,557.57
+BA,mucuge,256.99
+BA,mucuri,2203.67
+BA,mundo novo,129.0
+BA,muquem do sao francisco,61.32
+BA,muritiba,159.49
+BA,mutuipe,448.79
+BA,nazare,419.84
+BA,nova canaa,156.9
+BA,nova fatima,143.8
+BA,nova redencao,19.9
+BA,nova soure,255.52
+BA,nova vicosa,205.99
+BA,nucleo residencial pilar,2024.35
+BA,olindina,226.79
+BA,oliveira dos brejinhos,138.9
+BA,palmeiras,174.95
+BA,paramirim,407.68
+BA,paripiranga,77.71
+BA,pau brasil,239.2
+BA,paulo afonso,6492.59
+BA,pedrao,325.0
+BA,piata,80.98
+BA,pilao arcado,279.87
+BA,pindai,134.8
+BA,pindobacu,169.9
+BA,pintadas,449.8
+BA,pirai do norte,29.49
+BA,piripa,71.99
+BA,piritiba,484.69
+BA,planaltino,191.8
+BA,planalto,91.0
+BA,pocoes,308.99
+BA,pojuca,1481.09
+BA,ponto novo,360.0
+BA,porto seguro,12890.09
+BA,posto da mata,530.98
+BA,potiragua,495.97
+BA,prado,1090.79
+BA,presidente dutra,194.8
+BA,presidente janio quadros,149.9
+BA,presidente tancredo neves,234.68
+BA,queimadas,834.45
+BA,quijingue,228.09
+BA,quixabeira,216.94
+BA,remanso,369.69
+BA,retirolandia,89.9
+BA,riachao das neves,206.89
+BA,riachao do jacuipe,2502.4
+BA,riacho de santana,1194.7
+BA,ribeira do amparo,45.0
+BA,ribeira do pombal,618.19
+BA,rio de contas,226.7
+BA,rio do antonio,259.0
+BA,rio do pires,552.8
+BA,rio real,386.0
+BA,rodelas,404.9
+BA,ruy barbosa,662.96
+BA,salinas da margarida,55.0
+BA,salobro,72.2
+BA,salvador,181234.82
+BA,santa brigida,84.9
+BA,santa cruz cabralia,515.88
+BA,santa ines,293.9
+BA,santa maria da vitoria,1710.55
+BA,santa teresinha,287.0
+BA,santaluz,274.89
+BA,santana,197.3
+BA,santana do sobrado,36.9
+BA,santo amaro,1805.93
+BA,santo antonio de jesus,4361.85
+BA,santo estevao,979.81
+BA,sao desiderio,125.0
+BA,sao domingos,165.31
+BA,sao felipe,747.9
+BA,sao felix,27.9
+BA,sao felix do coribe,226.0
+BA,sao francisco do conde,276.8
+BA,sao jose da vitoria,175.65
+BA,sao miguel das matas,169.94
+BA,sao sebastiao do passe,399.89
+BA,sapeacu,246.79
+BA,satiro dias,24.5
+BA,saubara,179.9
+BA,saude,119.4
+BA,seabra,982.5
+BA,senhor do bonfim,2557.28
+BA,sento se,53.99
+BA,serra do ramalho,317.09
+BA,serra dourada,197.14
+BA,serrinha,2039.14
+BA,serrolandia,371.9
+BA,simoes filho,4671.48
+BA,sitio do quinto,97.89
+BA,sobradinho,592.69
+BA,tabocas do brejo velho,139.88
+BA,taboquinhas,289.0
+BA,tanhacu,528.78
+BA,tanque novo,329.59
+BA,tapiramuta,1298.99
+BA,teixeira de freitas,3439.17
+BA,teodoro sampaio,64.9
+BA,teofilandia,183.88
+BA,teolandia,167.8
+BA,trancoso,754.2
+BA,tucano,748.69
+BA,uaua,519.0
+BA,ubaira,704.79
+BA,ubaitaba,517.23
+BA,ubata,144.0
+BA,uibai,549.98
+BA,umburanas,99.9
+BA,una,488.78
+BA,urandi,707.94
+BA,urucuca,195.9
+BA,utinga,463.78
+BA,valenca,6373.59
+BA,valente,3209.58
+BA,varzea do poco,56.99
+BA,varzea nova,86.0
+BA,varzedo,39.9
+BA,vera cruz,1243.52
+BA,vereda,309.4
+BA,vitoria da conquista,16497.2
+BA,wagner,119.9
+BA,wanderley,288.98
+BA,wenceslau guimaraes,110.0
+BA,xique-xique,179.79
+CE,abaiara,262.9
+CE,acarau,1364.96
+CE,acopiara,647.67
+CE,aiuaba,109.7
+CE,altaneira,369.6
+CE,alto santo,622.89
+CE,amanari,390.0
+CE,amontada,45.9
+CE,antonina do norte,76.8
+CE,apuiares,339.89
+CE,aquiraz,428.99
+CE,aracati,2769.53
+CE,aracoiaba,497.8
+CE,araripe,268.6
+CE,aratuba,343.9
+CE,arneiroz,349.6
+CE,assare,81.0
+CE,aurora,367.69
+CE,banabuiu,79.0
+CE,barbalha,1302.98
+CE,barreira,123.89
+CE,barro,621.89
+CE,baturite,447.97
+CE,beberibe,1736.7
+CE,bela cruz,270.0
+CE,boa viagem,450.99
+CE,brejo santo,1529.86
+CE,camocim,1686.29
+CE,campos sales,1543.9
+CE,caninde,645.38
+CE,capistrano,35.0
+CE,caridade,99.9
+CE,carire,144.79
+CE,caririacu,454.0
+CE,carius,477.88
+CE,carnaubal,214.89
+CE,cascavel,1035.66
+CE,catarina,204.98
+CE,caucaia,5856.66
+CE,cedro,249.9
+CE,chaval,150.0
+CE,chorozinho,359.0
+CE,coreau,29.99
+CE,crateus,2407.76
+CE,crato,3128.56
+CE,croata,58.99
+CE,cruz,1480.58
+CE,deputado irapuan pinheiro,169.98
+CE,dourado,199.9
+CE,erere,188.0
+CE,eusebio,2217.51
+CE,flores,129.9
+CE,forquilha,348.47
+CE,fortaleza,96868.48
+CE,fortim,179.0
+CE,frecheirinha,175.09
+CE,granja,460.68
+CE,groairas,152.15
+CE,guaiuba,695.0
+CE,guaraciaba do norte,605.15
+CE,guassusse,149.9
+CE,hidrolandia,953.77
+CE,horizonte,519.99
+CE,ibiapina,237.79
+CE,ibicuitinga,28.99
+CE,icapui,454.25
+CE,ico,1990.88
+CE,iguatu,3538.29
+CE,independencia,110.0
+CE,ipaporanga,388.9
+CE,ipaumirim,269.9
+CE,ipu,379.88
+CE,ipueiras,1547.29
+CE,iracema,229.9
+CE,iraucuba,189.89
+CE,itaicaba,32.99
+CE,itaitinga,606.89
+CE,itapage,159.99
+CE,itapaje,3198.68
+CE,itapipoca,1341.08
+CE,itapiuna,54.98
+CE,itarema,72.9
+CE,jaguaribara,98.0
+CE,jaguaribe,663.98
+CE,jaguaruana,1155.15
+CE,jardim,392.65
+CE,jijoca de jericoacoara,1130.9
+CE,juazeiro do norte,7034.78
+CE,jucas,325.0
+CE,lages,59.0
+CE,lagoa do mato,35.99
+CE,lavras da mangabeira,827.88
+CE,limoeiro do norte,1436.57
+CE,madalena,132.9
+CE,maracanau,5342.73
+CE,maranguape,289.87
+CE,marco,582.6
+CE,massape,155.9
+CE,mauriti,14.9
+CE,meruoca,95.0
+CE,milagres,334.0
+CE,milha,207.9
+CE,miraima,254.0
+CE,missao velha,14.99
+CE,missi,109.9
+CE,mombaca,219.9
+CE,monsenhor tabosa,329.8
+CE,morada nova,1295.28
+CE,morrinhos,917.8
+CE,mucambo,119.9
+CE,nova olinda,1490.8
+CE,nova russas,1504.94
+CE,novo oriente,231.98
+CE,ocara,109.89
+CE,oros,100.65
+CE,pacajus,1262.59
+CE,pacatuba,4317.98
+CE,pacoti,149.8
+CE,pacuja,339.95
+CE,palhano,99.0
+CE,paracuru,550.89
+CE,paraipaba,558.97
+CE,parambu,141.86
+CE,pedra branca,36.89
+CE,penaforte,479.89
+CE,pentecoste,239.8
+CE,pereiro,285.89
+CE,pindoretama,37.55
+CE,pires ferreira,18.95
+CE,porteiras,16.55
+CE,potengi,245.89
+CE,quixada,2620.67
+CE,quixelo,115.99
+CE,quixeramobim,859.79
+CE,quixere,1143.3
+CE,redencao,1104.68
+CE,reriutaba,1093.32
+CE,russas,3843.87
+CE,saboeiro,163.99
+CE,santa quiteria,849.67
+CE,santana do acarau,1376.89
+CE,santana do cariri,839.8
+CE,sao benedito,789.19
+CE,sao goncalo do amarante,420.77
+CE,sao luis do curu,173.9
+CE,senador pompeu,585.94
+CE,sobral,11308.94
+CE,solonopole,729.89
+CE,sucesso,352.9
+CE,tabuleiro do norte,44.99
+CE,taperuaba,55.49
+CE,taua,933.13
+CE,tiangua,2377.09
+CE,trairi,457.0
+CE,tururu,189.0
+CE,ubajara,1178.9
+CE,uruburetama,58.99
+CE,uruoca,219.7
+CE,varjota,748.97
+CE,varzea alegre,140.29
+CE,vicosa do ceara,18.95
+DF,brasilia,300946.38
+DF,ceilandia,49.9
+DF,guara,88.79
+DF,santa maria,16.9
+DF,sobradinho,99.0
+DF,taguatinga,429.1
+ES,afonso claudio,1568.77
+ES,agua doce do norte,365.48
+ES,aguia branca,157.89
+ES,alegre,2884.07
+ES,alfredo chaves,902.71
+ES,alto rio novo,266.5
+ES,anchieta,1983.8
+ES,angelo frechiani,25.32
+ES,apiaca,434.28
+ES,arace,413.4
+ES,aracruz,4064.07
+ES,araguaia,49.0
+ES,atilio vivacqua,89.9
+ES,baixo guandu,1399.1
+ES,barra de sao francisco,740.66
+ES,boa esperanca,1097.58
+ES,bom jesus do norte,699.89
+ES,braco do rio,101.49
+ES,brejetuba,128.89
+ES,cachoeiro de itapemirim,15771.73
+ES,cariacica,17504.68
+ES,castelo,1600.8
+ES,celina,174.9
+ES,colatina,6925.51
+ES,conceicao da barra,306.87
+ES,conceicao do castelo,507.83
+ES,divino de sao lourenco,103.97
+ES,domingos martins,1188.3
+ES,dores do rio preto,411.76
+ES,ecoporanga,881.92
+ES,fundao,1072.68
+ES,governador lindenberg,101.97
+ES,guacui,3797.29
+ES,guarapari,10544.41
+ES,ibatiba,1518.78
+ES,ibiracu,27.3
+ES,iconha,315.74
+ES,irupi,242.99
+ES,itaguacu,1758.03
+ES,itaipava,406.84
+ES,itaoca,404.9
+ES,itapemirim,372.7
+ES,itarana,789.37
+ES,iuna,131.0
+ES,jacigua,134.49
+ES,jaguare,1283.85
+ES,jeronimo monteiro,284.0
+ES,joao neiva,724.93
+ES,laranja da terra,69.9
+ES,linhares,12211.41
+ES,mantenopolis,423.79
+ES,marataizes,2907.27
+ES,marechal floriano,559.64
+ES,marilandia,1436.07
+ES,mimoso do sul,687.37
+ES,montanha,1586.54
+ES,mucurici,259.8
+ES,muniz freire,238.9
+ES,muqui,485.48
+ES,nova venecia,2439.9
+ES,novo brasil,85.9
+ES,pacotuba,50.9
+ES,pancas,159.94
+ES,paraju,79.9
+ES,pedro canario,363.79
+ES,piacu,166.99
+ES,pinheiros,1024.32
+ES,piuma,2216.18
+ES,ponto belo,79.9
+ES,praia grande,59.9
+ES,presidente kennedy,238.65
+ES,quilometro 14 do mutum,49.9
+ES,rio bananal,225.26
+ES,rio novo do sul,531.68
+ES,santa leopoldina,89.9
+ES,santa maria de jetiba,1888.97
+ES,santa teresa,1117.36
+ES,santo antonio do canaa,160.0
+ES,sao domingos do norte,874.4
+ES,sao gabriel da palha,1406.8
+ES,sao joao de petropolis,27.99
+ES,sao joao do sobrado,55.92
+ES,sao jose do calcado,970.18
+ES,sao mateus,6569.97
+ES,sao roque do canaa,348.0
+ES,serra,36357.33
+ES,sooretama,317.36
+ES,vargem alta,278.89
+ES,vargem grande do soturno,89.9
+ES,venda nova do imigrante,2647.83
+ES,viana,3371.82
+ES,vila nelita,119.9
+ES,vila valerio,1369.4
+ES,vila velha,47595.19
+ES,vitoria,53160.79
+GO,abadiania,949.99
+GO,acreuna,1070.43
+GO,agua fria de goias,152.0
+GO,agua limpa,388.0
+GO,aguas lindas de goias,2219.91
+GO,alexania,466.67
+GO,alto horizonte,233.91
+GO,alto paraiso de goias,1367.34
+GO,alvorada do norte,164.88
+GO,americano do brasil,291.49
+GO,anapolis,17179.78
+GO,anicuns,661.93
+GO,aparecida de goiania,14505.46
+GO,apore,134.64
+GO,aragarcas,156.88
+GO,aragoiania,112.9
+GO,araguapaz,120.9
+GO,arenopolis,108.9
+GO,aruana,144.8
+GO,aurilandia,122.99
+GO,barro alto,97.9
+GO,bela vista de goias,608.66
+GO,bom jardim de goias,10.0
+GO,bom jesus,928.27
+GO,bonfinopolis,441.87
+GO,brazabrantes,53.5
+GO,britania,89.99
+GO,buriti alegre,29.99
+GO,cabeceiras,14.9
+GO,cachoeira alta,451.76
+GO,cachoeira dourada,148.9
+GO,cacu,982.68
+GO,caiaponia,352.78
+GO,caldas novas,5301.63
+GO,campinacu,179.9
+GO,campinorte,1244.69
+GO,campo alegre de goias,175.89
+GO,campos belos,788.07
+GO,campos verdes,385.6
+GO,carmo do rio verde,169.89
+GO,castelandia,554.98
+GO,catalao,5454.03
+GO,cavalcante,158.99
+GO,ceres,1905.47
+GO,cezarina,13.49
+GO,chapadao do ceu,1108.57
+GO,cidade ocidental,705.38
+GO,cocalzinho de goias,149.9
+GO,corumba de goias,126.99
+GO,corumbaiba,176.8
+GO,cristalina,2112.65
+GO,crixas,893.68
+GO,crominia,45.9
+GO,cumari,199.9
+GO,damianopolis,33.64
+GO,diorama,196.87
+GO,divinopolis de goias,79.0
+GO,domiciano ribeiro,114.89
+GO,doverlandia,277.92
+GO,edeia,472.9
+GO,fazenda nova,319.79
+GO,firminopolis,613.49
+GO,flores de goias,24.99
+GO,formosa,5282.15
+GO,formoso,39.0
+GO,goianapolis,1086.98
+GO,goiandira,94.9
+GO,goianesia,2044.47
+GO,goiania,105486.98
+GO,goianira,853.81
+GO,goias,1084.21
+GO,goiatuba,2347.44
+GO,guapo,757.89
+GO,hidrolandia,58.99
+GO,hidrolina,181.47
+GO,iaciara,846.99
+GO,inaciolandia,842.99
+GO,indiara,369.91
+GO,inhumas,2210.83
+GO,ipameri,2320.55
+GO,ipiranga de goias,119.9
+GO,ipora,2025.99
+GO,itaberai,1012.08
+GO,itaguacu,82.89
+GO,itaguari,887.0
+GO,itaguaru,84.89
+GO,itaja,902.0
+GO,itapaci,315.8
+GO,itapirapua,459.8
+GO,itapuranga,828.78
+GO,itumbiara,5156.12
+GO,jandaia,23.2
+GO,jaragua,610.67
+GO,jardim abc de goias,19.99
+GO,jatai,10040.37
+GO,jaupaci,89.9
+GO,jesupolis,159.33
+GO,joviania,376.97
+GO,jussara,82.79
+GO,leopoldo de bulhoes,283.02
+GO,luziania,4761.46
+GO,mairipotaba,129.77
+GO,mambai,816.99
+GO,mara rosa,143.9
+GO,matrincha,163.29
+GO,maurilandia,265.63
+GO,mimoso de goias,159.9
+GO,minacu,1561.62
+GO,mineiros,3379.3
+GO,montividiu do norte,17.99
+GO,morrinhos,1479.79
+GO,morro agudo de goias,32.9
+GO,mossamedes,49.99
+GO,mozarlandia,677.5
+GO,mundo novo,306.0
+GO,mutunopolis,24.41
+GO,nazario,237.89
+GO,neropolis,1297.22
+GO,niquelandia,1745.59
+GO,nova america,51.0
+GO,nova aurora,490.0
+GO,nova crixas,153.4
+GO,nova roma,49.99
+GO,nova veneza,339.95
+GO,novo gama,2124.94
+GO,novo planalto,27.99
+GO,orizona,546.81
+GO,ouro verde de goias,82.9
+GO,ouvidor,345.0
+GO,padre bernardo,195.7
+GO,palmeiras de goias,334.8
+GO,palminopolis,199.0
+GO,paranaiguara,236.89
+GO,parauna,556.88
+GO,piracanjuba,1893.26
+GO,piranhas,718.79
+GO,pirenopolis,273.87
+GO,pires do rio,3500.83
+GO,planaltina,754.24
+GO,planaltina de goias,95.6
+GO,pontalina,405.0
+GO,porangatu,1828.15
+GO,portelandia,93.99
+GO,posse,3550.25
+GO,quirinopolis,1475.95
+GO,rianapolis,451.68
+GO,rio verde,9450.0
+GO,rubiataba,1034.09
+GO,sanclerlandia,419.79
+GO,santa cruz de goias,709.0
+GO,santa fe de goias,1737.69
+GO,santa helena de goias,1499.73
+GO,santa rita do araguaia,800.25
+GO,santo antonio de goias,119.9
+GO,santo antonio do descoberto,866.26
+GO,sao joao d'alianca,743.53
+GO,sao joao da parauna,159.99
+GO,sao luis de montes belos,1284.37
+GO,sao luiz do norte,129.99
+GO,sao miguel do araguaia,1321.15
+GO,sao patricio,158.7
+GO,sao simao,368.6
+GO,senador canedo,1325.67
+GO,serranopolis,1002.88
+GO,silvania,1208.79
+GO,simolandia,138.99
+GO,teresina de goias,79.0
+GO,trindade,3425.57
+GO,trombas,16.97
+GO,turvania,83.7
+GO,turvelandia,27.3
+GO,uruacu,1750.02
+GO,uruana,1142.29
+GO,urutai,133.48
+GO,valparaiso de goias,5437.85
+GO,vianopolis,689.57
+GO,vicentinopolis,384.8
+MA,acailandia,937.79
+MA,alcantara,424.8
+MA,alto alegre do maranhao,88.9
+MA,alto alegre do pindare,199.0
+MA,alto parnaiba,777.79
+MA,amapa do maranhao,15.9
+MA,araguana,119.0
+MA,arame,29.99
+MA,arari,708.8
+MA,bacabal,3243.71
+MA,bacuri,315.42
+MA,balsas,5274.43
+MA,barra do corda,889.89
+MA,barreirinhas,321.43
+MA,bela vista do maranhao,49.0
+MA,benedito leite,95.9
+MA,bequimao,349.9
+MA,boa vista do gurupi,93.89
+MA,bom jardim,25.9
+MA,bom jesus das selvas,175.9
+MA,brejo,99.99
+MA,buriti,151.79
+MA,buriticupu,640.77
+MA,cajapio,89.99
+MA,cajari,289.0
+MA,campestre do maranhao,249.89
+MA,candido mendes,239.8
+MA,cantanhede,689.0
+MA,capinzal do norte,395.0
+MA,carolina,429.8
+MA,carutapera,174.9
+MA,caxias,1790.55
+MA,cedral,1164.9
+MA,centro novo do maranhao,299.99
+MA,chapadinha,113.88
+MA,cidelandia,375.96
+MA,codo,2419.82
+MA,coelho neto,314.9
+MA,colinas,1128.87
+MA,coroata,873.48
+MA,cururupu,629.26
+MA,dom pedro,333.77
+MA,esperantinopolis,640.61
+MA,estreito,305.89
+MA,formosa da serra negra,99.0
+MA,fortuna,523.89
+MA,goncalves dias,65.0
+MA,governador eugenio barros,346.32
+MA,grajau,652.79
+MA,guimaraes,199.99
+MA,humberto de campos,45.9
+MA,icatu,778.0
+MA,imperatriz,7171.38
+MA,itapecuru mirim,552.97
+MA,jatoba,149.99
+MA,joao lisboa,612.89
+MA,joselandia,73.35
+MA,lago da pedra,840.37
+MA,lago verde,98.0
+MA,loreto,1599.99
+MA,magalhaes de almeida,270.9
+MA,maioba,708.79
+MA,maracacume,617.18
+MA,maranhaozinho,40.9
+MA,mata roma,193.0
+MA,matoes,72.0
+MA,matoes do norte,698.9
+MA,miranda do norte,120.0
+MA,mirinzal,154.87
+MA,moncao,85.99
+MA,nova olinda do maranhao,1546.4
+MA,olho d'agua das cunhas,312.99
+MA,paco do lumiar,766.38
+MA,paraibano,259.91
+MA,parnarama,166.99
+MA,passagem franca,37.98
+MA,pastos bons,137.9
+MA,paulino neves,559.99
+MA,pedreiras,1002.69
+MA,peri mirim,34.99
+MA,pindare mirim,481.9
+MA,pinheiro,426.8
+MA,pio xii,479.99
+MA,pocao de pedras,179.0
+MA,porto franco,279.99
+MA,presidente dutra,2140.98
+MA,presidente juscelino,249.99
+MA,presidente medici,105.0
+MA,rosario,28.12
+MA,sambaiba,178.9
+MA,santa helena,649.7
+MA,santa ines,1206.98
+MA,santa luzia,242.7
+MA,santa luzia do parua,79.9
+MA,santa quiteria do maranhao,49.9
+MA,santa rita,89.9
+MA,sao benedito do rio preto,95.0
+MA,sao bento,569.0
+MA,sao bernardo,706.79
+MA,sao domingos do maranhao,127.89
+MA,sao francisco do brejao,31.9
+MA,sao joao batista,113.0
+MA,sao joao do paraiso,80.04
+MA,sao joao dos patos,1333.08
+MA,sao jose de ribamar,1267.85
+MA,sao luis,50559.51
+MA,sao mateus do maranhao,710.2
+MA,sao pedro da agua branca,309.9
+MA,sao vicente ferrer,205.9
+MA,satubinha,138.79
+MA,senador la rocque,90.0
+MA,sitio novo,24.99
+MA,sucupira do norte,319.9
+MA,timon,1802.69
+MA,tutoia,449.89
+MA,urbano santos,501.79
+MA,vargem grande,79.9
+MA,viana,622.97
+MA,vitoria do mearim,78.9
+MA,vitorino freire,1588.0
+MA,ze doca,688.6
+MG,abadia dos dourados,358.9
+MG,abaete,1732.81
+MG,abre campo,281.68
+MG,acaiaca,164.9
+MG,acucena,38.0
+MG,agua comprida,106.9
+MG,aguas formosas,1341.7
+MG,aguas vermelhas,574.58
+MG,aimores,951.37
+MG,aiuruoca,281.09
+MG,alagoa,77.68
+MG,alem paraiba,2800.66
+MG,alexandrita,99.8
+MG,alfenas,5350.32
+MG,alfredo vasconcelos,567.99
+MG,almenara,2872.15
+MG,alpercata,228.8
+MG,alpinopolis,836.68
+MG,alterosa,252.3
+MG,alto caparao,478.9
+MG,alto jequitiba,211.89
+MG,alto rio doce,213.42
+MG,alvarenga,211.0
+MG,alvinopolis,807.06
+MG,amparo da serra,49.95
+MG,andradas,4070.31
+MG,andrelandia,119.36
+MG,andrequice,199.0
+MG,angustura,139.0
+MG,antonio carlos,29.9
+MG,antonio pereira,88.99
+MG,antonio prado de minas,282.0
+MG,antunes,119.8
+MG,aracitaba,119.8
+MG,aracuai,1362.98
+MG,araguari,10869.52
+MG,arantina,180.0
+MG,araponga,239.9
+MG,arapora,1144.38
+MG,arapua,89.0
+MG,araujos,2490.5
+MG,araxa,13136.21
+MG,arceburgo,924.14
+MG,arcos,5391.73
+MG,areado,1246.69
+MG,arinos,752.07
+MG,astolfo dutra,1294.52
+MG,ataleia,164.8
+MG,azurita,169.7
+MG,baependi,1409.04
+MG,baguari,49.0
+MG,baldim,650.99
+MG,bambui,2206.67
+MG,bandeira,347.71
+MG,bandeira do sul,414.9
+MG,barao de cocais,1958.4
+MG,barbacena,12296.61
+MG,barra longa,1300.0
+MG,barroso,1289.96
+MG,bela vista de minas,119.9
+MG,belo horizonte,354105.89
+MG,belo oriente,620.39
+MG,belo vale,313.8
+MG,berilo,55.9
+MG,berizal,189.9
+MG,bertopolis,65.9
+MG,betim,29992.31
+MG,bias fortes,80.9
+MG,bicas,727.65
+MG,boa esperanca,1539.82
+MG,bocaiuva,1618.27
+MG,bom despacho,4680.53
+MG,bom jardim de minas,866.87
+MG,bom jesus da penha,85.89
+MG,bom jesus do amparo,199.89
+MG,bom jesus do galho,4795.29
+MG,bom repouso,402.29
+MG,bom sucesso,856.69
+MG,bonfim,229.84
+MG,bonfinopolis de minas,1387.2
+MG,bonito de minas,99.99
+MG,borda da mata,897.53
+MG,botelhos,1240.01
+MG,bras pires,76.8
+MG,brasilandia de minas,76.25
+MG,brasilia de minas,671.74
+MG,brasopolis,99.99
+MG,braunas,89.9
+MG,brazopolis,856.13
+MG,brejo bonito,139.9
+MG,brumadinho,2258.23
+MG,bueno brandao,172.02
+MG,buenopolis,1450.38
+MG,bugre,187.9
+MG,buritis,1756.22
+MG,buritizeiro,2987.99
+MG,cabeceira grande,265.89
+MG,cabo verde,458.79
+MG,cachoeira da prata,169.8
+MG,cachoeira de minas,497.4
+MG,cachoeira de pajeu,428.8
+MG,cachoeira do brumado,195.9
+MG,cachoeira do campo,828.99
+MG,cachoeira dourada,119.9
+MG,caetanopolis,644.67
+MG,caete,2482.97
+MG,caiana,235.9
+MG,cajuri,53.9
+MG,caldas,489.7
+MG,camacho,59.99
+MG,camanducaia,2180.67
+MG,cambui,3133.74
+MG,cambuquira,340.76
+MG,campanario,278.7
+MG,campanha,598.79
+MG,campestre,321.7
+MG,campina verde,659.48
+MG,campo alegre de minas,119.0
+MG,campo azul,79.9
+MG,campo belo,1836.34
+MG,campo do meio,251.69
+MG,campo florido,59.8
+MG,campos altos,373.68
+MG,campos gerais,544.06
+MG,canaa,54.99
+MG,canapolis,525.8
+MG,candeias,888.29
+MG,cantagalo,232.95
+MG,caparao,49.9
+MG,capela nova,89.77
+MG,capelinha,2562.96
+MG,capetinga,198.9
+MG,capim branco,97.88
+MG,capinopolis,1022.28
+MG,capitao andrade,199.0
+MG,capitao eneas,65.6
+MG,capitolio,386.89
+MG,caputira,454.28
+MG,carai,481.87
+MG,carandai,1143.5
+MG,carangola,4592.0
+MG,caratinga,9496.46
+MG,carbonita,755.87
+MG,careacu,116.13
+MG,carlos chagas,150.79
+MG,carmesia,241.1
+MG,carmo da cachoeira,319.44
+MG,carmo da mata,369.8
+MG,carmo de minas,643.96
+MG,carmo do cajuru,1638.44
+MG,carmo do paranaiba,4008.64
+MG,carmo do rio claro,1642.42
+MG,carmopolis de minas,1629.78
+MG,carneirinho,294.5
+MG,carrancas,134.79
+MG,carvalhopolis,240.33
+MG,cascalho rico,69.0
+MG,cassia,278.29
+MG,cataguases,4584.86
+MG,catas altas,1052.85
+MG,caxambu,1770.63
+MG,cedro do abaete,42.99
+MG,central de santa helena,139.9
+MG,centralina,29.99
+MG,chacara,175.7
+MG,chale,116.4
+MG,chapada do norte,373.9
+MG,chapada gaucha,391.69
+MG,chaveslandia,233.79
+MG,claraval,171.0
+MG,claro dos pocoes,99.99
+MG,claudio,3092.97
+MG,cocais,259.0
+MG,coimbra,38.9
+MG,coluna,297.88
+MG,comercinho,129.0
+MG,conceicao da aparecida,866.08
+MG,conceicao da ibitipoca,39.99
+MG,conceicao das alagoas,1542.4
+MG,conceicao das pedras,313.59
+MG,conceicao do formoso,195.99
+MG,conceicao do mato dentro,1317.91
+MG,conceicao do para,694.99
+MG,conceicao do rio verde,825.89
+MG,conceicao dos ouros,632.78
+MG,confins,389.0
+MG,congonhal,455.84
+MG,congonhas,2938.61
+MG,conquista,453.88
+MG,conselheiro lafaiete,9434.37
+MG,conselheiro pena,2000.56
+MG,contagem,49484.22
+MG,coracao de jesus,123.9
+MG,corinto,1362.86
+MG,coroaci,338.9
+MG,coromandel,2354.93
+MG,coronel fabriciano,4170.73
+MG,coronel murta,219.8
+MG,coronel pacheco,99.9
+MG,corrego danta,25.4
+MG,corrego fundo,129.0
+MG,crisolita,103.9
+MG,cristais,208.7
+MG,cristalia,418.7
+MG,cristiano otoni,210.2
+MG,cristina,1079.32
+MG,crucilandia,17.0
+MG,cruzeiro da fortaleza,114.9
+MG,cruzilia,377.9
+MG,cuite velho,19.99
+MG,curvelo,5541.0
+MG,datas,780.0
+MG,delfim moreira,24.9
+MG,delfinopolis,233.59
+MG,descoberto,206.98
+MG,desembargador otoni,169.99
+MG,desterro de entre rios,39.9
+MG,desterro do melo,24.9
+MG,diamantina,2424.28
+MG,diogo de vasconcelos,191.62
+MG,dionisio,118.8
+MG,divinesia,249.9
+MG,divino,1338.49
+MG,divino das laranjeiras,35.9
+MG,divinolandia de minas,219.59
+MG,divinopolis,35301.77
+MG,divisa alegre,190.99
+MG,divisa nova,689.9
+MG,dom cavati,74.99
+MG,dom joaquim,149.0
+MG,dom silverio,392.24
+MG,dom vicoso,272.3
+MG,dona euzebia,316.89
+MG,dores de campos,1308.14
+MG,dores de guanhaes,57.9
+MG,dores do indaia,744.57
+MG,durande,117.49
+MG,eloi mendes,1795.39
+MG,engenheiro navarro,1997.0
+MG,entre folhas,84.99
+MG,entre rios de minas,1503.86
+MG,ervalia,1076.83
+MG,esmeraldas,1780.97
+MG,espera feliz,3315.75
+MG,espinosa,2705.09
+MG,estevao de araujo,14.2
+MG,estiva,10.9
+MG,estrela do indaia,112.8
+MG,estrela do sul,89.9
+MG,eugenopolis,973.87
+MG,ewbank da camara,79.99
+MG,extrema,4492.03
+MG,felicio dos santos,169.9
+MG,felisburgo,99.9
+MG,felixlandia,75.0
+MG,ferros,119.6
+MG,fervedouro,965.76
+MG,florestal,299.5
+MG,fonseca,89.65
+MG,formiga,4407.94
+MG,formoso,828.99
+MG,francisco badaro,367.46
+MG,francisco dumont,108.89
+MG,francisco sa,532.8
+MG,frei gaspar,74.9
+MG,frei inocencio,644.29
+MG,frei lagonegro,206.74
+MG,fronteira,949.66
+MG,fruta de leite,178.9
+MG,frutal,3474.85
+MG,gameleiras,423.89
+MG,glaura,69.9
+MG,goiabeira,259.98
+MG,goiana,88.7
+MG,goncalves,356.9
+MG,gouveia,936.96
+MG,governador valadares,19659.05
+MG,grao mogol,899.8
+MG,grupiara,129.94
+MG,guanhaes,1931.45
+MG,guape,176.96
+MG,guaraciaba,199.8
+MG,guaranesia,805.58
+MG,guarani,2164.42
+MG,guarara,501.99
+MG,guarda-mor,83.9
+MG,guaxupe,6081.17
+MG,guidoval,364.9
+MG,guimarania,523.9
+MG,guinda,25.0
+MG,guiricema,149.9
+MG,iapu,383.15
+MG,ibertioga,162.5
+MG,ibia,1367.29
+MG,ibiai,556.89
+MG,ibiracatu,129.99
+MG,ibiraci,507.8
+MG,ibirite,7281.78
+MG,icarai de minas,254.9
+MG,igarape,1904.26
+MG,igaratinga,253.52
+MG,iguatama,358.9
+MG,ilicinea,89.9
+MG,imbe de minas,209.0
+MG,inconfidentes,99.99
+MG,indianopolis,28.99
+MG,ingai,96.0
+MG,inhapim,436.35
+MG,inhauma,124.98
+MG,inimutaba,266.7
+MG,ipaba,1403.5
+MG,ipanema,3727.77
+MG,ipatinga,21882.32
+MG,ipiacu,429.88
+MG,ipuiuna,169.9
+MG,irai de minas,414.89
+MG,itabira,10544.49
+MG,itabirinha,108.0
+MG,itabirito,5078.13
+MG,itacarambi,339.79
+MG,itaguara,48.89
+MG,itajuba,14115.6
+MG,itamarandiba,1706.99
+MG,itambacuri,601.77
+MG,itamogi,229.9
+MG,itamonte,883.15
+MG,itanhandu,1899.98
+MG,itanhomi,308.55
+MG,itaobim,866.91
+MG,itapagipe,265.49
+MG,itapecerica,1363.28
+MG,itapeva,275.7
+MG,itatiaiucu,129.9
+MG,itau de minas,364.45
+MG,itauna,7942.95
+MG,itinga,363.5
+MG,itueta,448.89
+MG,ituiutaba,5502.97
+MG,iturama,1772.55
+MG,itutinga,69.9
+MG,jaboticatubas,767.3
+MG,jacinto,113.99
+MG,jacui,403.74
+MG,jacutinga,2670.82
+MG,jaguaracu,55.9
+MG,jaiba,683.49
+MG,jampruca,235.9
+MG,janauba,2990.16
+MG,januaria,3471.23
+MG,japaraiba,108.9
+MG,jeceaba,544.23
+MG,jenipapo de minas,7.48
+MG,jequeri,655.0
+MG,jequitai,204.18
+MG,jequitiba,636.9
+MG,jequitinhonha,1372.37
+MG,jesuania,327.98
+MG,joaima,37.9
+MG,joao monlevade,6959.85
+MG,joao pinheiro,2475.31
+MG,jordania,886.25
+MG,juatuba,607.9
+MG,juiz de fora,64520.87
+MG,juruaia,380.78
+MG,juvenilia,77.48
+MG,ladainha,171.14
+MG,lagoa da prata,1725.39
+MG,lagoa dos patos,59.9
+MG,lagoa dourada,586.78
+MG,lagoa formosa,647.57
+MG,lagoa grande,2060.89
+MG,lagoa santa,8378.6
+MG,lajinha,515.07
+MG,lambari,1506.47
+MG,lamim,89.9
+MG,laranjal,289.0
+MG,lavras,13297.75
+MG,leandro ferreira,208.9
+MG,leopoldina,1667.77
+MG,liberdade,107.23
+MG,lima duarte,764.88
+MG,limeira do oeste,441.7
+MG,luisburgo,246.98
+MG,luizlandia do oeste,232.99
+MG,luminarias,423.8
+MG,luz,166.9
+MG,machacalis,138.89
+MG,machado,2761.92
+MG,macuco de minas,199.0
+MG,madre de deus de minas,362.96
+MG,major porto,84.99
+MG,malacacheta,1355.65
+MG,mamonas,230.0
+MG,manga,378.8
+MG,manhuacu,8510.0
+MG,manhumirim,2461.78
+MG,mantena,1652.22
+MG,mar de espanha,1014.72
+MG,maravilhas,420.81
+MG,maria da fe,305.55
+MG,mariana,4416.58
+MG,marilac,657.8
+MG,mario campos,618.64
+MG,martinesia,34.89
+MG,martinho campos,415.2
+MG,martins soares,408.79
+MG,mata verde,1512.53
+MG,materlandia,79.98
+MG,mateus leme,574.27
+MG,matias barbosa,2169.86
+MG,matipo,491.19
+MG,mato verde,420.43
+MG,matozinhos,750.65
+MG,matutina,134.89
+MG,medeiros,279.49
+MG,medina,579.19
+MG,mendes pimentel,372.69
+MG,mendonca,149.9
+MG,merces,219.76
+MG,mesquita,59.9
+MG,minas novas,433.77
+MG,minduri,19.9
+MG,miradouro,49.9
+MG,mirai,880.81
+MG,miravania,35.0
+MG,moeda,69.9
+MG,moema,189.99
+MG,monsenhor paulo,53.99
+MG,montalvania,352.2
+MG,monte alegre de minas,213.68
+MG,monte azul,619.9
+MG,monte belo,1109.78
+MG,monte carmelo,3269.13
+MG,monte formoso,72.99
+MG,monte santo de minas,869.28
+MG,monte siao,2530.28
+MG,monte verde,343.1
+MG,montes claros,26310.99
+MG,montezuma,186.89
+MG,morada nova de minas,658.89
+MG,morro da garca,199.0
+MG,morro do ferro,120.0
+MG,morro do pilar,69.9
+MG,morro vermelho,31.9
+MG,munhoz,384.67
+MG,muriae,11015.42
+MG,mutum,1397.94
+MG,muzambinho,665.8
+MG,nacip raydan,74.9
+MG,nanuque,2266.0
+MG,natercia,39.9
+MG,nazareno,161.8
+MG,nepomuceno,610.94
+MG,nova era,2074.71
+MG,nova lima,20962.05
+MG,nova ponte,1409.49
+MG,nova resende,10.99
+MG,nova serrana,7856.26
+MG,novo cruzeiro,805.78
+MG,novo oriente de minas,259.99
+MG,olaria,79.9
+MG,olhos d'agua,99.9
+MG,oliveira,2579.0
+MG,orizania,129.95
+MG,ouro branco,4419.23
+MG,ouro fino,2511.84
+MG,ouro preto,6841.96
+MG,ouro verde de minas,80.79
+MG,padre carvalho,563.0
+MG,padre paraiso,59.9
+MG,paineiras,58.99
+MG,pains,298.33
+MG,paiva,146.2
+MG,palma,415.89
+MG,palmopolis,89.99
+MG,papagaios,269.67
+MG,para de minas,7162.08
+MG,paracatu,8430.41
+MG,paraguacu,1452.85
+MG,paraisopolis,2101.66
+MG,paraopeba,880.67
+MG,passa quatro,1746.56
+MG,passa tempo,120.0
+MG,passos,4247.28
+MG,patis,49.9
+MG,patos de minas,16791.97
+MG,patrocinio,6817.53
+MG,patrocinio do muriae,94.8
+MG,paula candido,129.0
+MG,pavao,60.0
+MG,pecanha,882.7
+MG,pedra azul,416.12
+MG,pedra do indaia,72.99
+MG,pedra menina,23.4
+MG,pedralva,743.97
+MG,pedrinopolis,481.01
+MG,pedro leopoldo,5057.01
+MG,pequi,169.99
+MG,perdigao,393.49
+MG,perdizes,1163.31
+MG,perdoes,603.88
+MG,periquito,1526.0
+MG,perpetuo socorro,149.89
+MG,pescador,29.9
+MG,piau,125.89
+MG,piedade de caratinga,662.07
+MG,piedade do rio grande,362.78
+MG,piedade dos gerais,392.88
+MG,pimenta,233.99
+MG,pingo-d'agua,369.48
+MG,pinhotiba,59.9
+MG,piracema,149.0
+MG,pirajuba,135.9
+MG,piranga,316.19
+MG,piranguinho,1475.65
+MG,pirapetinga,486.39
+MG,pirapora,6803.07
+MG,pirauba,247.77
+MG,pitangui,2517.23
+MG,piumhi,195.73
+MG,piumhii,3707.31
+MG,planura,102.16
+MG,poco fundo,933.99
+MG,pocoes de paineiras,102.89
+MG,pocos de caldas,16808.56
+MG,pocrane,172.99
+MG,pompeu,1055.18
+MG,ponte nova,7106.89
+MG,ponto do marambaia,13.7
+MG,ponto dos volantes,41.4
+MG,porteirinha,282.69
+MG,porto firme,153.61
+MG,pote,506.9
+MG,pouso alegre,21372.21
+MG,pouso alto,251.0
+MG,prados,204.79
+MG,prata,1044.58
+MG,pratapolis,49.99
+MG,presidente kubitschek,115.43
+MG,presidente olegario,412.91
+MG,prudente de morais,338.99
+MG,quatituba,105.0
+MG,queixada,59.0
+MG,raposos,1009.52
+MG,raul soares,1115.51
+MG,ravena,69.99
+MG,recreio,264.98
+MG,resende costa,224.79
+MG,resplendor,739.06
+MG,ressaquinha,189.9
+MG,riachinho,82.34
+MG,riacho dos machados,284.0
+MG,ribeirao das neves,12674.44
+MG,ribeirao vermelho,275.7
+MG,ribeiro junqueira,149.0
+MG,rio acima,513.66
+MG,rio casca,317.43
+MG,rio doce,66.0
+MG,rio espera,149.9
+MG,rio manso,815.56
+MG,rio novo,536.79
+MG,rio paranaiba,680.27
+MG,rio pardo de minas,597.69
+MG,rio piracicaba,512.75
+MG,rio pomba,1192.86
+MG,rio preto,161.68
+MG,ritapolis,145.69
+MG,rodeiro,409.4
+MG,romaria,264.9
+MG,rubelita,57.89
+MG,rubim,213.89
+MG,sabara,4481.78
+MG,sabinopolis,317.08
+MG,sacramento,1986.57
+MG,salinas,4986.77
+MG,salto da divisa,116.98
+MG,santa barbara,5118.21
+MG,santa cruz de minas,578.89
+MG,santa cruz de salinas,220.9
+MG,santa cruz do prata,128.9
+MG,santa fe de minas,159.9
+MG,santa helena de minas,248.34
+MG,santa juliana,2622.39
+MG,santa luzia,11566.46
+MG,santa margarida,362.9
+MG,santa maria de itabira,462.3
+MG,santa maria do salto,38.0
+MG,santa maria do suacui,454.9
+MG,santa rita de caldas,746.28
+MG,santa rita de jacutinga,29.99
+MG,santa rita de minas,367.67
+MG,santa rita do ibitipoca,184.7
+MG,santa rita do itueto,59.9
+MG,santa rita do sapucai,3910.7
+MG,santa vitoria,4083.77
+MG,santana da vargem,269.95
+MG,santana de pirapama,49.9
+MG,santana do capivari,25.0
+MG,santana do deserto,190.9
+MG,santana do jacare,1685.79
+MG,santana do manhuacu,228.89
+MG,santana do paraiso,2696.82
+MG,santana dos montes,241.0
+MG,santo antonio do amparo,376.72
+MG,santo antonio do aventureiro,77.99
+MG,santo antonio do grama,239.9
+MG,santo antonio do itambe,225.06
+MG,santo antonio do jacinto,505.49
+MG,santo antonio do monte,1959.11
+MG,santo antonio do rio abaixo,6.0
+MG,santo antonio dos campos,159.0
+MG,santo hipolito,104.4
+MG,santos dumont,2056.3
+MG,sao benedito,52.64
+MG,sao bento abade,16.0
+MG,sao bras do suacui,95.99
+MG,sao domingos,59.9
+MG,sao domingos das dores,104.9
+MG,sao domingos do prata,337.89
+MG,sao felix de minas,388.9
+MG,sao francisco,1193.62
+MG,sao francisco de paula,78.89
+MG,sao francisco do gloria,69.9
+MG,sao francisco do humaita,170.8
+MG,sao geraldo,423.78
+MG,sao geraldo da piedade,139.8
+MG,sao geraldo do baguari,117.3
+MG,sao goncalo do abaete,177.99
+MG,sao goncalo do para,734.9
+MG,sao goncalo do rio abaixo,802.2
+MG,sao goncalo do rio das pedras,169.0
+MG,sao goncalo do rio preto,328.19
+MG,sao goncalo do sapucai,1202.5
+MG,sao gotardo,2479.38
+MG,sao joao batista do gloria,359.6
+MG,sao joao da mata,174.78
+MG,sao joao da ponte,461.84
+MG,sao joao das missoes,119.99
+MG,sao joao del rei,8297.97
+MG,sao joao do manhuacu,154.8
+MG,sao joao do manteninha,474.89
+MG,sao joao do oriente,279.9
+MG,sao joao do paraiso,349.5
+MG,sao joao evangelista,1227.66
+MG,sao joao nepomuceno,2594.0
+MG,sao joaquim de bicas,1663.28
+MG,sao jose da barra,987.14
+MG,sao jose da lapa,1086.58
+MG,sao jose do divino,148.0
+MG,sao jose do goiabal,202.9
+MG,sao lourenco,4166.89
+MG,sao mateus de minas,59.88
+MG,sao miguel do anta,173.59
+MG,sao pedro da uniao,286.89
+MG,sao pedro dos ferros,763.79
+MG,sao romao,388.49
+MG,sao roque de minas,169.89
+MG,sao sebastiao do maranhao,206.79
+MG,sao sebastiao do paraiso,4800.05
+MG,sao sebastiao do rio verde,278.0
+MG,sao thome das letras,52.8
+MG,sao tiago,499.27
+MG,sao tomas de aquino,309.8
+MG,sao vitor,99.9
+MG,sapucai-mirim,569.79
+MG,sapucaia,77.9
+MG,sardoa,119.9
+MG,sarzedo,987.93
+MG,senador amaral,179.46
+MG,senador cortes,298.0
+MG,senador firmino,138.57
+MG,senador modestino goncalves,119.32
+MG,senhora de oliveira,116.9
+MG,senhora dos remedios,29.99
+MG,sericita,216.32
+MG,serra azul de minas,344.99
+MG,serra bonita,169.99
+MG,serra do salitre,49.99
+MG,serra dos aimores,351.82
+MG,serrania,345.89
+MG,serranopolis de minas,119.9
+MG,serro,837.89
+MG,sete lagoas,17308.35
+MG,setubinha,265.89
+MG,silvano,99.99
+MG,silveira carvalho,28.9
+MG,silvianopolis,132.5
+MG,simao pereira,149.0
+MG,simonesia,1295.88
+MG,sobralia,24.9
+MG,soledade de minas,190.04
+MG,tabuleiro,324.89
+MG,taiobeiras,2684.71
+MG,taparuba,89.0
+MG,taquaracu de minas,358.0
+MG,tarumirim,775.49
+MG,teixeiras,483.58
+MG,teofilo otoni,7744.23
+MG,timoteo,7783.77
+MG,tiradentes,510.86
+MG,tiros,175.89
+MG,tocantins,681.38
+MG,tocos do moji,55.0
+MG,tombos,387.69
+MG,tres coracoes,4493.83
+MG,tres marias,840.44
+MG,tres pontas,2293.71
+MG,tumiritinga,459.0
+MG,tupaciguara,1331.21
+MG,tuparece,13.5
+MG,turmalina,1229.69
+MG,turvolandia,143.9
+MG,uba,6369.76
+MG,ubai,43.5
+MG,ubaporanga,288.78
+MG,uberaba,28688.24
+MG,uberlandia,48072.08
+MG,umburatiba,109.99
+MG,unai,6825.39
+MG,uniao de minas,87.09
+MG,uruana de minas,17.9
+MG,urucania,149.0
+MG,urucuia,149.99
+MG,vargem alegre,244.99
+MG,vargem grande do rio pardo,270.0
+MG,varginha,14043.12
+MG,varjao de minas,105.8
+MG,varzea da palma,2171.77
+MG,varzelandia,218.89
+MG,vazante,1549.63
+MG,verissimo,294.12
+MG,vermelho,98.0
+MG,vermelho novo,33.87
+MG,vespasiano,6172.59
+MG,vicosa,16401.25
+MG,vieiras,325.0
+MG,vila pereira,92.8
+MG,virgem da lapa,737.9
+MG,virginia,35.9
+MG,virginopolis,881.64
+MG,virgolandia,380.0
+MG,visconde do rio branco,1557.34
+MG,vitorinos,89.99
+MG,volta grande,308.38
+MS,agua clara,219.89
+MS,alcinopolis,711.16
+MS,amambai,751.98
+MS,anastacio,116.9
+MS,anaurilandia,69.99
+MS,angelica,53.9
+MS,anhandui,69.0
+MS,aparecida do taboado,2531.9
+MS,aquidauana,197.7
+MS,bandeirantes,89.9
+MS,bataguassu,613.0
+MS,bataipora,135.3
+MS,bataypora,256.89
+MS,bela vista,466.38
+MS,bodoquena,428.0
+MS,bonito,991.47
+MS,brasilandia,59.9
+MS,caarapo,1310.49
+MS,camapua,621.29
+MS,campo grande,57121.67
+MS,caracol,94.0
+MS,cassilandia,1524.5
+MS,chapadao do sul,1569.79
+MS,corguinho,225.41
+MS,coronel sapucaia,89.9
+MS,corumba,4700.17
+MS,costa rica,1043.66
+MS,coxim,1598.75
+MS,deodapolis,76.8
+MS,dois irmaos do buriti,826.9
+MS,dourados,8907.7
+MS,eldorado,25.9
+MS,fatima do sul,1436.29
+MS,gloria de dourados,45.8
+MS,guia lopes da laguna,29.99
+MS,inocencia,36.9
+MS,itapora,197.88
+MS,itaquirai,272.9
+MS,ivinhema,243.69
+MS,jaraguari,75.0
+MS,jardim,256.0
+MS,juti,631.79
+MS,ladario,372.59
+MS,maracaju,2791.96
+MS,miranda,273.8
+MS,mundo novo,667.99
+MS,navirai,1910.88
+MS,nova alvorada do sul,380.85
+MS,nova andradina,2194.87
+MS,paraiso das aguas,34.99
+MS,paranaiba,1616.23
+MS,paranhos,279.0
+MS,pedro gomes,113.0
+MS,ponta pora,4038.51
+MS,porto murtinho,55.0
+MS,prudencio thomaz,32.99
+MS,ribas do rio pardo,47.9
+MS,rio brilhante,972.28
+MS,rio negro,319.9
+MS,sanga puita,36.9
+MS,sao gabriel do oeste,526.72
+MS,sidrolandia,1557.76
+MS,sonora,57.98
+MS,tacuru,120.0
+MS,terenos,62.89
+MS,tres lagoas,7431.32
+MS,vicentina,189.9
+MT,agua boa,2758.87
+MT,alta floresta,3495.55
+MT,alto araguaia,1085.73
+MT,alto boa vista,418.0
+MT,alto garcas,258.8
+MT,alto taquari,750.88
+MT,apiacas,28.99
+MT,araputanga,517.45
+MT,arenapolis,328.85
+MT,aripuana,1124.78
+MT,barra do bugres,840.25
+MT,barra do garcas,4076.2
+MT,bom jesus do araguaia,1199.9
+MT,caceres,4750.19
+MT,campinapolis,324.86
+MT,campo novo do parecis,4970.79
+MT,campo verde,781.38
+MT,campos de julio,934.8
+MT,canarana,1103.73
+MT,carlinda,204.9
+MT,castanheira,128.98
+MT,chapada dos guimaraes,754.8
+MT,claudia,302.68
+MT,cocalinho,418.87
+MT,colider,2161.73
+MT,colniza,718.97
+MT,comodoro,2245.02
+MT,confresa,1065.65
+MT,conquista d'oeste,89.99
+MT,cotriguacu,167.66
+MT,cuiaba,38843.38
+MT,curvelandia,189.0
+MT,denise,507.0
+MT,diamantino,386.49
+MT,dom aquino,449.8
+MT,feliz natal,259.99
+MT,figueiropolis d'oeste,77.98
+MT,gaucha do norte,136.48
+MT,guaranta do norte,393.87
+MT,ipiranga do norte,95.0
+MT,itanhanga,69.99
+MT,itauba,1420.98
+MT,itiquira,133.0
+MT,jaciara,185.7
+MT,jauru,613.79
+MT,juara,378.49
+MT,juina,4695.32
+MT,juruena,319.9
+MT,juscimeira,123.8
+MT,lucas do rio verde,5807.76
+MT,matupa,871.17
+MT,mirassol d'oeste,1912.02
+MT,nobres,41.99
+MT,nortelandia,174.9
+MT,nova bandeirantes,548.51
+MT,nova canaa do norte,149.78
+MT,nova guarita,25.0
+MT,nova lacerda,339.74
+MT,nova monte verde,245.79
+MT,nova mutum,571.38
+MT,nova olimpia,168.0
+MT,nova ubirata,99.9
+MT,nova xavantina,3274.69
+MT,novo mundo,59.15
+MT,novo sao joaquim,292.6
+MT,paranaita,1858.75
+MT,paranatinga,2463.29
+MT,pedra preta,539.89
+MT,peixoto de azevedo,357.7
+MT,pontes e lacerda,1556.77
+MT,porto alegre do norte,410.0
+MT,porto dos gauchos,609.0
+MT,porto esperidiao,234.8
+MT,porto estrela,129.9
+MT,poxoreu,128.57
+MT,primavera do leste,6232.81
+MT,querencia,2302.62
+MT,reserva do cabacal,383.9
+MT,ribeirao cascalheira,29.9
+MT,ribeiraozinho,299.98
+MT,rio branco,133.88
+MT,rondonopolis,12243.04
+MT,salto do ceu,140.39
+MT,santo antonio do leste,149.0
+MT,santo antonio do leverger,97.0
+MT,sao felix do araguaia,98.8
+MT,sao jose do rio claro,298.0
+MT,sao jose do xingu,49.3
+MT,sao jose dos quatro marcos,226.99
+MT,sapezal,964.82
+MT,sinop,6474.65
+MT,sorriso,3342.75
+MT,tabapora,214.9
+MT,tangara da serra,3970.6
+MT,tapurah,125.0
+MT,terra nova do norte,408.8
+MT,uniao do sul,220.7
+MT,varzea grande,7043.05
+MT,vera,262.79
+MT,vila bela da santissima trindade,29.99
+MT,vila rica,221.82
+PA,abaetetuba,4028.57
+PA,altamira,5168.15
+PA,ananindeua,17886.24
+PA,augusto correa,347.99
+PA,aurora do para,78.0
+PA,barcarena,1084.17
+PA,belem,80078.49
+PA,benevides,228.89
+PA,bom jesus do tocantins,407.9
+PA,bonito,304.9
+PA,braganca,1083.96
+PA,brasil novo,304.9
+PA,breu branco,481.74
+PA,breves,609.0
+PA,cameta,392.8
+PA,canaa dos carajas,1565.93
+PA,capanema,497.88
+PA,capitao poco,405.38
+PA,carajas,483.22
+PA,castanhal,3628.62
+PA,conceicao do araguaia,1143.89
+PA,concordia do para,929.78
+PA,curralinho,188.76
+PA,curuca,524.7
+PA,dom eliseu,343.87
+PA,floresta do araguaia,129.99
+PA,garrafao do norte,662.89
+PA,goianesia do para,861.99
+PA,hidreletrica tucurui,564.78
+PA,igarape-acu,69.0
+PA,igarape-miri,27.99
+PA,ipixuna do para,188.0
+PA,itaituba,243.88
+PA,itupiranga,399.0
+PA,jacareacanga,49.0
+PA,jacunda,1601.71
+PA,juruti,49.9
+PA,mae do rio,148.89
+PA,maraba,3597.17
+PA,marituba,1235.09
+PA,medicilandia,8.99
+PA,mocajuba,59.9
+PA,moju,242.88
+PA,mojui dos campos,119.59
+PA,monte alegre,98.0
+PA,morada nova,59.99
+PA,murucupi,129.9
+PA,nova esperanca do piria,2199.0
+PA,nova ipixuna,328.0
+PA,nova timboteua,99.9
+PA,novo progresso,2039.31
+PA,novo repartimento,155.0
+PA,oeiras do para,178.65
+PA,ourem,31.9
+PA,ourilandia do norte,1710.08
+PA,pacaja,2651.06
+PA,paragominas,2182.65
+PA,parauapebas,4092.06
+PA,pau d'arco,48.9
+PA,picarra,1014.6
+PA,placas,220.29
+PA,porto trombetas,241.8
+PA,quatro bocas,1486.99
+PA,redencao,1423.25
+PA,rio maria,352.88
+PA,rondon do para,2150.23
+PA,santa barbara do para,179.96
+PA,santa isabel do para,741.77
+PA,santa maria do para,106.99
+PA,santana do araguaia,1190.8
+PA,santarem,5298.66
+PA,santo antonio do taua,32.9
+PA,sao domingos do araguaia,227.0
+PA,sao felix do xingu,1382.7
+PA,sao joao de pirabas,228.89
+PA,sao miguel do guama,1240.79
+PA,sao sebastiao da boa vista,198.9
+PA,senador jose porfirio,6.0
+PA,tailandia,2113.18
+PA,tome-acu,24.99
+PA,tracuateua,13.98
+PA,tucuma,1150.25
+PA,tucurui,5096.7
+PA,ulianopolis,27.3
+PA,uruara,962.4
+PA,vigia,248.79
+PA,vila dos cabanos,451.23
+PA,viseu,301.0
+PA,xinguara,1282.22
+PB,agua branca,204.99
+PB,alagoa grande,139.99
+PB,alagoa nova,113.0
+PB,alagoinha,269.9
+PB,alhandra,1037.0
+PB,arara,109.9
+PB,araruna,129.9
+PB,areia,119.8
+PB,areial,159.9
+PB,aroeiras,149.99
+PB,assuncao,80.0
+PB,bananeiras,295.24
+PB,barra de santa rosa,400.4
+PB,bayeux,758.15
+PB,belem,330.0
+PB,bonito de santa fe,119.6
+PB,brejo do cruz,1160.0
+PB,brejo dos santos,89.99
+PB,cabedelo,1213.95
+PB,cajazeiras,1818.16
+PB,caldas brandao,139.0
+PB,campina grande,17500.53
+PB,catole do rocha,3742.59
+PB,conceicao,114.49
+PB,coremas,284.69
+PB,cubati,135.89
+PB,cuite,678.89
+PB,curral de cima,199.0
+PB,desterro,559.0
+PB,esperanca,1720.38
+PB,fagundes,198.9
+PB,frei martinho,268.9
+PB,guarabira,1239.68
+PB,ibiara,278.0
+PB,imaculada,340.89
+PB,inga,130.0
+PB,itaporanga,263.8
+PB,jacarau,47.81
+PB,jerico,75.0
+PB,joao pessoa,53164.81
+PB,junco do serido,239.89
+PB,juripiranga,69.99
+PB,juru,890.0
+PB,lagoa,110.0
+PB,livramento,269.9
+PB,lucena,89.0
+PB,mae d'agua,39.89
+PB,mamanguape,969.75
+PB,manaira,90.0
+PB,mari,264.55
+PB,montadas,84.99
+PB,nova floresta,129.6
+PB,passagem,1199.0
+PB,patos,4036.65
+PB,paulista,475.6
+PB,pedra branca,44.99
+PB,pedra lavrada,50.0
+PB,pedras de fogo,159.99
+PB,pianco,2200.0
+PB,picui,107.99
+PB,pilar,58.99
+PB,pirpirituba,1340.0
+PB,pitanga de estrada,120.0
+PB,pitimbu,388.9
+PB,pocinhos,223.8
+PB,pombal,1577.5
+PB,prata,54.9
+PB,princesa isabel,258.0
+PB,puxinana,219.0
+PB,queimadas,1422.9
+PB,remigio,149.9
+PB,riacho de santo antonio,129.9
+PB,rio tinto,439.9
+PB,santa cecilia,149.9
+PB,santa luzia,285.3
+PB,santa rita,1541.65
+PB,santo andre,54.9
+PB,sao bentinho,35.0
+PB,sao bento,579.89
+PB,sao francisco,89.0
+PB,sao jose dos cordeiros,180.0
+PB,sao mamede,86.0
+PB,sape,1959.99
+PB,serra branca,84.9
+PB,solanea,440.0
+PB,soledade,258.9
+PB,sousa,1042.59
+PB,sume,248.89
+PB,teixeira,34.9
+PB,triunfo,159.9
+PB,uirauna,199.9
+PB,varzea,98.99
+PE,abreu e lima,2376.95
+PE,afogados da ingazeira,1345.98
+PE,afranio,357.9
+PE,agrestina,1989.0
+PE,agua preta,129.99
+PE,aguas belas,769.87
+PE,alianca,64.99
+PE,altinho,363.8
+PE,amaraji,476.89
+PE,aracoiaba,78.67
+PE,araripina,2169.58
+PE,arcoverde,515.8
+PE,barra de guabiraba,486.4
+PE,barreiros,1381.16
+PE,belem do sao francisco,654.5
+PE,belo jardim,1578.63
+PE,bezerros,1337.29
+PE,bodoco,202.8
+PE,bom conselho,1624.93
+PE,bom jardim,477.7
+PE,bonito,1235.79
+PE,brejo da madre de deus,410.8
+PE,buenos aires,247.9
+PE,buique,235.0
+PE,cabo de santo agostinho,2877.95
+PE,cabrobo,921.79
+PE,caetes,122.9
+PE,calcado,199.0
+PE,camaragibe,3642.88
+PE,camocim de sao felix,362.9
+PE,camutanga,295.8
+PE,canhotinho,367.0
+PE,capoeiras,143.0
+PE,caraiba,416.89
+PE,carpina,2194.76
+PE,caruaru,9535.69
+PE,catende,1630.18
+PE,cha de alegria,79.99
+PE,cha grande,164.89
+PE,condado,944.8
+PE,correntes,169.9
+PE,cortes,249.89
+PE,cumaru,330.99
+PE,cupira,39.9
+PE,custodia,584.88
+PE,dormentes,946.8
+PE,escada,2658.43
+PE,feira nova,480.78
+PE,ferreiros,95.0
+PE,flores,230.7
+PE,floresta,454.58
+PE,gameleira,1657.98
+PE,garanhuns,4107.48
+PE,gloria do goita,516.99
+PE,goiana,606.93
+PE,gravata,1970.99
+PE,iati,628.99
+PE,ibimirim,144.89
+PE,igarassu,1287.82
+PE,ilha de itamaraca,524.44
+PE,inaja,369.4
+PE,ipojuca,1605.2
+PE,ipubi,400.47
+PE,itambe,394.78
+PE,itapetim,280.8
+PE,itapissuma,290.8
+PE,itaquitinga,64.89
+PE,jaboatao dos guararapes,21850.16
+PE,jaqueira,578.99
+PE,jatauba,126.89
+PE,jatoba,498.25
+PE,joao alfredo,215.49
+PE,joaquim nabuco,234.87
+PE,jupi,604.9
+PE,jurema,29.5
+PE,lagoa do carro,746.77
+PE,lagoa do ouro,305.9
+PE,lagoa dos gatos,969.99
+PE,lagoa grande,1018.36
+PE,lajedo,988.09
+PE,limoeiro,511.59
+PE,macaparana,144.88
+PE,machados,89.9
+PE,mirandiba,221.89
+PE,moreilandia,230.9
+PE,moreno,763.5
+PE,nazare da mata,99.99
+PE,nossa senhora do o,401.0
+PE,olinda,13149.78
+PE,orobo,99.9
+PE,oroco,294.9
+PE,ouricuri,2246.86
+PE,palmares,1393.72
+PE,panelas,161.79
+PE,parnamirim,1884.22
+PE,passira,374.98
+PE,paudalho,878.9
+PE,paulista,5736.77
+PE,pedra,267.68
+PE,pesqueira,667.79
+PE,petrolandia,1520.49
+PE,petrolina,14313.0
+PE,pocao,299.99
+PE,pombos,105.0
+PE,quipapa,230.0
+PE,quixada,134.9
+PE,recife,89352.31
+PE,riacho das almas,203.9
+PE,ribeirao,316.4
+PE,rio formoso,215.6
+PE,salgueiro,2315.95
+PE,saloa,1231.0
+PE,sanharo,1748.0
+PE,santa cruz,263.9
+PE,santa cruz do capibaribe,2664.87
+PE,santa filomena,160.0
+PE,santa maria da boa vista,412.08
+PE,santa terezinha,259.9
+PE,santo antonio das queimadas,84.99
+PE,sao benedito do sul,39.99
+PE,sao bento do una,1328.39
+PE,sao domingos,114.94
+PE,sao joao,427.0
+PE,sao joaquim do monte,79.0
+PE,sao jose da coroa grande,218.9
+PE,sao jose do belmonte,228.9
+PE,sao jose do egito,444.7
+PE,sao lourenco da mata,1239.86
+PE,sao vicente ferrer,199.98
+PE,serra talhada,2053.18
+PE,serrita,428.9
+PE,sertania,343.29
+PE,siriji,39.99
+PE,sirinhaem,571.88
+PE,surubim,546.87
+PE,tabira,986.88
+PE,tacaratu,204.89
+PE,tamandare,49.0
+PE,taquaritinga do norte,2129.9
+PE,terezinha,39.99
+PE,terra nova,209.99
+PE,timbauba,567.67
+PE,toritama,1072.79
+PE,tracunhaem,677.99
+PE,trindade,4084.8
+PE,triunfo,219.0
+PE,tuparetama,309.8
+PE,venturosa,1228.9
+PE,vertentes,23.99
+PE,vicencia,268.0
+PE,vitoria de santo antao,2455.15
+PE,xexeu,87.5
+PI,agua branca,132.9
+PI,alegrete do piaui,149.9
+PI,altos,1345.39
+PI,alvorada do gurgueia,37.0
+PI,amarante,760.0
+PI,angical do piaui,29.99
+PI,avelino lopes,72.89
+PI,baixa grande do ribeiro,159.99
+PI,barras,210.88
+PI,bertolinia,411.0
+PI,bocaina,114.9
+PI,bom jesus,925.1
+PI,buriti dos lopes,268.9
+PI,caldeirao grande do piaui,110.0
+PI,campo alegre do fidalgo,194.98
+PI,campo grande do piaui,155.99
+PI,campo maior,993.66
+PI,canto do buriti,599.5
+PI,castelo do piaui,422.6
+PI,caxingo,29.0
+PI,cocal,1106.77
+PI,conceicao do caninde,155.44
+PI,corrente,1489.9
+PI,demerval lobao,15.0
+PI,eliseu martins,408.98
+PI,esperantina,414.66
+PI,floriano,2424.02
+PI,francisco santos,20.9
+PI,fronteiras,1308.8
+PI,gilbues,296.0
+PI,guadalupe,1313.7
+PI,ilha grande,139.9
+PI,inhuma,78.0
+PI,isaias coelho,170.0
+PI,itaueira,105.28
+PI,joaquim pires,12.97
+PI,jose de freitas,257.9
+PI,lagoa de sao francisco,68.99
+PI,lagoa do piaui,84.99
+PI,lagoinha do piaui,115.0
+PI,luis correia,115.0
+PI,luzilandia,161.8
+PI,marcos parente,13.65
+PI,matias olimpio,600.0
+PI,nova santa rita,13.98
+PI,novo oriente do piaui,152.01
+PI,oeiras,553.44
+PI,parnaiba,4060.01
+PI,paulistana,862.67
+PI,pedro ii,364.8
+PI,picos,3598.56
+PI,pimenteiras,102.5
+PI,pio ix,149.99
+PI,piracuruca,235.9
+PI,piripiri,537.28
+PI,redencao do gurgueia,179.8
+PI,regeneracao,790.97
+PI,rio grande do piaui,24.9
+PI,santa cruz do piaui,119.99
+PI,sao joao do piaui,1571.79
+PI,sao jose do divino,579.0
+PI,sao jose do piaui,149.9
+PI,sao lourenco do piaui,152.49
+PI,sao miguel do tapuio,534.0
+PI,sao raimundo nonato,2145.39
+PI,sebastiao leal,24.99
+PI,simplicio mendes,16.6
+PI,teresina,49757.43
+PI,uniao,329.0
+PI,urucui,638.97
+PI,valenca do piaui,1043.0
+PI,varzea grande,12.5
+PR,abatia,167.89
+PR,adhemar de barros,139.0
+PR,adrianopolis,73.9
+PR,alexandra,31.9
+PR,almirante tamandare,4255.69
+PR,altamira do parana,259.1
+PR,alto alegre,167.99
+PR,alto alegre do iguacu,74.7
+PR,alto paraiso,56.99
+PR,alto parana,389.9
+PR,alto piquiri,412.0
+PR,alto sao joao,54.99
+PR,altonia,494.9
+PR,amapora,129.9
+PR,ampere,1769.67
+PR,andira,1462.18
+PR,angulo,294.7
+PR,antonina,2077.57
+PR,apucarana,7283.7
+PR,arapongas,6617.96
+PR,arapoti,966.97
+PR,araruna,429.97
+PR,araucaria,5086.1
+PR,areia branca dos assis,462.54
+PR,assai,861.57
+PR,assis chateaubriand,1200.31
+PR,astorga,411.77
+PR,balsa nova,19.45
+PR,bandeirantes,1728.2
+PR,barbosa ferraz,497.9
+PR,barra do jacare,57.9
+PR,barracao,19.99
+PR,bela vista do paraiso,515.49
+PR,bituruna,433.38
+PR,boa esperanca,129.0
+PR,boa esperanca do iguacu,35.9
+PR,boa vista da aparecida,202.47
+PR,bocaiuva do sul,49.89
+PR,bom jesus do sul,199.9
+PR,bom sucesso,89.9
+PR,borrazopolis,259.59
+PR,cafeara,233.0
+PR,cafelandia,1755.11
+PR,california,103.8
+PR,cambara,863.17
+PR,cambe,3858.67
+PR,cambira,432.0
+PR,campina da lagoa,519.7
+PR,campina grande do sul,1152.47
+PR,campo bonito,79.9
+PR,campo do tenente,55.9
+PR,campo largo,3894.89
+PR,campo magro,39.8
+PR,campo mourao,7228.55
+PR,candido de abreu,360.8
+PR,candoi,43.0
+PR,cantagalo,114.99
+PR,capanema,602.59
+PR,capitao leonidas marques,407.78
+PR,carambei,390.8
+PR,carlopolis,755.4
+PR,cascavel,23695.62
+PR,castro,2847.19
+PR,centenario do sul,369.13
+PR,cerro azul,182.18
+PR,ceu azul,382.56
+PR,chopinzinho,142.38
+PR,cianorte,4803.77
+PR,cidade gaucha,478.79
+PR,clevelandia,138.5
+PR,colombo,7531.9
+PR,colonia castrolanda,824.03
+PR,colonia jordaozinho,843.4
+PR,colonia vitoria,294.91
+PR,colorado,1022.78
+PR,congonhinhas,433.6
+PR,conselheiro mairinck,67.0
+PR,contenda,89.9
+PR,corbelia,733.8
+PR,cornelio procopio,2234.17
+PR,coronel domingos soares,89.0
+PR,coronel vivida,856.87
+PR,corumbatai do sul,27.49
+PR,cruz machado,441.77
+PR,cruzeiro do iguacu,129.99
+PR,cruzeiro do oeste,825.39
+PR,curitiba,211320.38
+PR,curiuva,295.7
+PR,diamante d'oeste,289.9
+PR,diamante do norte,391.25
+PR,doce grande,49.49
+PR,dois vizinhos,2409.52
+PR,douradina,99.9
+PR,doutor camargo,211.05
+PR,doutor ulysses,122.0
+PR,eneas marques,151.68
+PR,engenheiro beltrao,76.8
+PR,entre rios do oeste,93.89
+PR,espigao alto do iguacu,158.9
+PR,farol,126.99
+PR,faxinal,848.05
+PR,fazenda rio grande,4655.49
+PR,fenix,44.99
+PR,figueira,928.78
+PR,flor da serra do sul,197.1
+PR,florai,387.39
+PR,floresta,729.79
+PR,florestopolis,492.7
+PR,florida,69.9
+PR,formosa do oeste,69.9
+PR,foz do iguacu,11586.38
+PR,foz do jordao,49.0
+PR,francisco beltrao,7491.38
+PR,general carneiro,401.48
+PR,godoy moreira,1049.0
+PR,goioere,1935.28
+PR,grandes rios,128.99
+PR,guaira,820.48
+PR,guairaca,63.8
+PR,guamiranga,214.0
+PR,guapirama,89.9
+PR,guaraci,651.9
+PR,guaraniacu,385.97
+PR,guarapuava,8625.45
+PR,guaraquecaba,49.9
+PR,guaratuba,1821.88
+PR,ibaiti,1057.36
+PR,ibema,134.9
+PR,ibipora,1303.38
+PR,icaraima,27.9
+PR,iguaracu,525.7
+PR,iguatu,137.9
+PR,ilha dos valadares,67.99
+PR,imbau,124.2
+PR,imbituva,740.67
+PR,inacio martins,242.99
+PR,inaja,56.9
+PR,indianopolis,262.79
+PR,ipiranga,110.89
+PR,ipora,194.89
+PR,irati,2455.22
+PR,iretama,117.3
+PR,itaguaje,138.8
+PR,itaipulandia,195.17
+PR,itambaraca,269.8
+PR,itambe,269.9
+PR,itapejara d'oeste,1049.9
+PR,itaperucu,635.84
+PR,ivai,610.77
+PR,ivaipora,516.75
+PR,ivate,273.98
+PR,jaboti,160.7
+PR,jacarezinho,1356.86
+PR,jaguapita,759.05
+PR,jaguariaiva,1665.58
+PR,jandaia do sul,1839.25
+PR,janiopolis,265.97
+PR,japira,363.79
+PR,japura,408.5
+PR,jardim alegre,118.38
+PR,jardim olinda,139.0
+PR,jesuitas,556.55
+PR,joaquim tavora,317.98
+PR,jundiai do sul,337.97
+PR,juranda,40.9
+PR,jussara,29.49
+PR,kalore,429.99
+PR,lapa,2039.2
+PR,laranjal,27.99
+PR,laranjeiras do sul,3595.56
+PR,leopolis,18.9
+PR,lindoeste,164.3
+PR,loanda,1704.36
+PR,lobato,498.54
+PR,londrina,46106.49
+PR,luiziana,149.85
+PR,lunardelli,214.89
+PR,lupionopolis,209.75
+PR,mallet,786.65
+PR,mambore,780.24
+PR,mandaguacu,3222.0
+PR,mandaguari,5039.15
+PR,mandirituba,92.65
+PR,manfrinopolis,111.0
+PR,mangueirinha,1794.67
+PR,manoel ribas,631.65
+PR,marechal candido rondon,3638.56
+PR,marialva,2573.17
+PR,mariental,1799.0
+PR,marilandia do sul,159.9
+PR,marilena,89.99
+PR,mariluz,308.99
+PR,maringa,37613.29
+PR,mariopolis,154.99
+PR,maripa,361.97
+PR,marmeleiro,698.44
+PR,matelandia,57.98
+PR,matinhos,2862.15
+PR,mato rico,72.9
+PR,maua da serra,129.99
+PR,medianeira,3007.04
+PR,mercedes,213.9
+PR,missal,2490.76
+PR,moreira sales,345.67
+PR,morretes,762.98
+PR,munhoz de melo,953.89
+PR,nossa senhora das gracas,54.8
+PR,nova america da colina,58.99
+PR,nova aurora,575.89
+PR,nova cantu,199.9
+PR,nova esperanca,1499.98
+PR,nova esperanca do sudoeste,84.99
+PR,nova fatima,254.89
+PR,nova laranjeiras,208.1
+PR,nova londrina,743.53
+PR,nova prata do iguacu,1049.78
+PR,nova santa barbara,113.0
+PR,nova santa rosa,398.88
+PR,novo itacolomi,90.0
+PR,ortigueira,993.29
+PR,ourizona,143.8
+PR,ouro verde do oeste,14.9
+PR,paicandu,943.16
+PR,palmas,1921.38
+PR,palmeira,2013.32
+PR,palmeirinha,58.92
+PR,palmital,179.0
+PR,palotina,872.76
+PR,paraiso do norte,187.82
+PR,paranacity,178.15
+PR,paranagua,9244.45
+PR,paranapoema,89.99
+PR,paranavai,7282.39
+PR,pato bragado,86.7
+PR,pato branco,9047.64
+PR,paula freitas,474.9
+PR,paulo frontin,560.9
+PR,peabiru,704.74
+PR,perobal,80.0
+PR,perola,272.74
+PR,perola d'oeste,619.9
+PR,perola independente,84.9
+PR,pien,330.4
+PR,pinhais,8711.82
+PR,pinhalao,1894.94
+PR,pinhao,920.28
+PR,pirai do sul,601.29
+PR,pirapo,75.27
+PR,piraquara,1604.51
+PR,pitanga,532.7
+PR,planaltina do parana,10.75
+PR,planalto,353.7
+PR,ponta grossa,18923.38
+PR,pontal do parana,1084.26
+PR,porecatu,735.42
+PR,porto amazonas,58.79
+PR,porto rico,299.0
+PR,pranchita,158.67
+PR,primeiro de maio,1216.67
+PR,prudentopolis,839.09
+PR,quatigua,251.7
+PR,quatro barras,1763.66
+PR,quatro pontes,149.0
+PR,quedas do iguacu,842.25
+PR,querencia do norte,79.9
+PR,quinta do sol,118.99
+PR,quitandinha,368.9
+PR,rancho alegre,89.9
+PR,rancho alegre d'oeste,117.3
+PR,realeza,1264.26
+PR,reboucas,361.27
+PR,renascenca,279.6
+PR,reserva,308.6
+PR,reserva do iguacu,14.0
+PR,ribeirao claro,492.69
+PR,ribeirao do pinhal,328.0
+PR,rio azul,383.7
+PR,rio bonito do iguacu,462.8
+PR,rio branco do sul,399.67
+PR,rio negro,2105.87
+PR,rio verde,159.9
+PR,rolandia,6061.03
+PR,roncador,158.98
+PR,rondon,262.98
+PR,rosario do ivai,29.0
+PR,sabaudia,5.9
+PR,salgado filho,155.7
+PR,salto do itarare,259.9
+PR,salto do lontra,766.49
+PR,santa amelia,160.0
+PR,santa cecilia do pavao,56.99
+PR,santa cruz de monte castelo,706.22
+PR,santa fe,877.8
+PR,santa helena,628.15
+PR,santa isabel do ivai,425.9
+PR,santa izabel do oeste,319.89
+PR,santa lucia,48.9
+PR,santa margarida,49.9
+PR,santa mariana,311.25
+PR,santa monica,332.88
+PR,santa tereza do oeste,364.9
+PR,santa terezinha de itaipu,328.94
+PR,santana,122.99
+PR,santana do itarare,53.9
+PR,santo antonio da platina,1140.61
+PR,santo antonio do caiua,256.3
+PR,santo antonio do sudoeste,159.95
+PR,santo inacio,65.9
+PR,sao carlos do ivai,93.0
+PR,sao clemente,139.8
+PR,sao joao,872.09
+PR,sao joao do ivai,193.9
+PR,sao joao do triunfo,263.72
+PR,sao jorge d'oeste,89.9
+PR,sao jorge do ivai,352.52
+PR,sao jorge do oeste,34.9
+PR,sao jorge do patrocinio,89.9
+PR,sao jose da boa vista,118.99
+PR,sao jose dos pinhais,15064.15
+PR,sao mateus do sul,1933.95
+PR,sao miguel do cambui,59.9
+PR,sao miguel do iguacu,1288.2
+PR,sao pedro do iguacu,117.3
+PR,sao pedro do ivai,424.74
+PR,sao sebastiao da amoreira,45.0
+PR,sao tome,234.07
+PR,sapopema,154.98
+PR,sarandi,2063.93
+PR,saudade do iguacu,263.79
+PR,sede alvorada,119.0
+PR,senges,487.39
+PR,serra dos dourados,65.0
+PR,serranopolis do iguacu,274.89
+PR,sertanopolis,918.8
+PR,siqueira campos,1178.09
+PR,sulina,29.9
+PR,tamarana,103.9
+PR,tamboara,8.99
+PR,tapejara,355.9
+PR,teixeira soares,545.69
+PR,telemaco borba,4693.49
+PR,terra boa,683.79
+PR,terra rica,644.67
+PR,terra roxa,561.07
+PR,tibagi,293.77
+PR,toledo,10053.64
+PR,tomazina,348.8
+PR,tunas do parana,198.9
+PR,tupassi,19.9
+PR,turvo,112.1
+PR,ubirata,582.18
+PR,umuarama,5770.52
+PR,uniao da vitoria,5081.93
+PR,urai,283.9
+PR,ventania,166.77
+PR,vera cruz do oeste,431.56
+PR,vere,598.39
+PR,vila nova,85.47
+PR,vila reis,69.9
+PR,vitoria,28.99
+PR,vitorino,49.0
+PR,wenceslau braz,188.0
+PR,xambre,511.0
+RJ,angra dos reis,18893.04
+RJ,anta,241.88
+RJ,aperibe,1464.94
+RJ,araruama,17199.19
+RJ,areal,1152.18
+RJ,armacao dos buzios,4836.4
+RJ,arraial do cabo,5237.89
+RJ,arrozal,833.89
+RJ,avelar,606.0
+RJ,barao de juparana,28.49
+RJ,barra de sao joao,2440.85
+RJ,barra do pirai,5543.41
+RJ,barra mansa,19998.97
+RJ,belford roxo,13932.95
+RJ,bemposta,32.0
+RJ,boa esperanca,1399.99
+RJ,boa ventura,14.9
+RJ,bom jardim,2189.45
+RJ,bom jesus do itabapoana,3405.91
+RJ,bom jesus do querendo,149.0
+RJ,cabo frio,17182.67
+RJ,cachoeiras de macacu,1958.25
+RJ,california da barra,871.97
+RJ,cambiasca,22.99
+RJ,cambuci,2042.79
+RJ,campos dos goytacazes,34360.46
+RJ,cantagalo,1932.48
+RJ,carapebus,696.97
+RJ,cardoso moreira,500.02
+RJ,carmo,1493.19
+RJ,casimiro de abreu,3458.33
+RJ,comendador levy gasparian,603.69
+RJ,conceicao de macabu,1668.47
+RJ,conrado,104.9
+RJ,conservatoria,864.09
+RJ,cordeiro,2604.86
+RJ,corrego do ouro,28.9
+RJ,duas barras,14.89
+RJ,duque de caxias,34261.78
+RJ,engenheiro passos,250.89
+RJ,engenheiro paulo de frontin,449.12
+RJ,glicerio,405.99
+RJ,goitacazes,1116.34
+RJ,governador portela,349.8
+RJ,guapimirim,2678.16
+RJ,ibitioca,169.99
+RJ,iguaba grande,2348.6
+RJ,ipiabas,568.87
+RJ,itaborai,7134.27
+RJ,itacurussa,59.9
+RJ,itaguai,6417.74
+RJ,italva,1285.99
+RJ,itaocara,1720.65
+RJ,itaperuna,6963.57
+RJ,itatiaia,1526.46
+RJ,jaguarembe,33.99
+RJ,jamapara,32.0
+RJ,japeri,4458.27
+RJ,japuiba,1017.58
+RJ,laje do muriae,219.0
+RJ,macae,31274.9
+RJ,macuco,69.9
+RJ,mage,16186.65
+RJ,mangaratiba,974.84
+RJ,marica,15289.97
+RJ,mendes,1240.75
+RJ,mesquita,9171.03
+RJ,miguel pereira,3602.2
+RJ,miracema,1643.24
+RJ,monnerat,284.84
+RJ,mussurepe,99.99
+RJ,natividade,2645.37
+RJ,nilopolis,13778.17
+RJ,niteroi,117607.22
+RJ,nova friburgo,28024.89
+RJ,nova iguacu,60234.09
+RJ,papucaia,1126.77
+RJ,paracambi,6691.95
+RJ,paraiba do sul,2949.57
+RJ,parati,2779.7
+RJ,paraty,2780.77
+RJ,passa tres,63.85
+RJ,paty do alferes,2234.66
+RJ,penedo,89.9
+RJ,petropolis,33214.2
+RJ,piao,56.99
+RJ,pinheiral,2165.19
+RJ,pirai,2218.16
+RJ,porciuncula,936.88
+RJ,portela,229.9
+RJ,porto real,1484.6
+RJ,pureza,49.9
+RJ,purilandia,166.99
+RJ,quatis,483.69
+RJ,queimados,6156.75
+RJ,quissama,1527.67
+RJ,raposo,584.7
+RJ,resende,13545.25
+RJ,rio bonito,4402.01
+RJ,rio claro,380.98
+RJ,rio das flores,558.68
+RJ,rio das ostras,20268.71
+RJ,rio de janeiro,987163.17
+RJ,sacra familia do tingua,119.8
+RJ,santa isabel do rio preto,739.9
+RJ,santa maria,8.0
+RJ,santa maria madalena,1046.09
+RJ,santa rita da floresta,79.0
+RJ,santanesia,364.5
+RJ,santo amaro de campos,1611.78
+RJ,santo antonio de padua,5290.98
+RJ,santo eduardo,215.0
+RJ,sao fidelis,2029.25
+RJ,sao francisco de itabapoana,1497.76
+RJ,sao goncalo,51676.04
+RJ,sao joao da barra,2115.54
+RJ,sao joao de meriti,18796.24
+RJ,sao joao do paraiso,166.99
+RJ,sao jose de uba,478.89
+RJ,sao jose do ribeirao,97.9
+RJ,sao jose do turvo,240.7
+RJ,sao jose do vale do rio preto,1192.21
+RJ,sao pedro da aldeia,4672.43
+RJ,sao sebastiao de campos,23.8
+RJ,sao sebastiao do alto,488.98
+RJ,sao sebastiao do paraiba,540.0
+RJ,sapucaia,648.74
+RJ,saquarema,4673.05
+RJ,seropedica,4391.15
+RJ,silva jardim,567.59
+RJ,sumidouro,1060.68
+RJ,tangua,504.88
+RJ,teresopolis,17115.29
+RJ,tocos,338.9
+RJ,trajano de moraes,775.18
+RJ,travessao,414.09
+RJ,tres irmaos,139.8
+RJ,tres rios,7227.52
+RJ,valao do barro,67.1
+RJ,valenca,3940.46
+RJ,vargem alegre,28.9
+RJ,varre-sai,918.9
+RJ,vassouras,4491.8
+RJ,vila muriqui,731.76
+RJ,visconde de maua,140.59
+RJ,volta redonda,33354.0
+RJ,werneck,403.89
+RN,acari,364.0
+RN,acu,613.08
+RN,agua nova,42.0
+RN,alexandria,159.8
+RN,almino afonso,299.9
+RN,alto do rodrigues,2737.46
+RN,angicos,65.99
+RN,antonio martins,45.0
+RN,apodi,377.89
+RN,areia branca,183.6
+RN,barauna,229.99
+RN,bodo,48.9
+RN,caicara do norte,1099.0
+RN,caico,2723.2
+RN,caraubas,1059.29
+RN,carnauba dos dantas,129.99
+RN,carnaubais,339.0
+RN,ceara-mirim,305.46
+RN,coronel joao pessoa,89.9
+RN,currais novos,1462.79
+RN,extremoz,111.79
+RN,felipe guerra,122.99
+RN,florania,35.5
+RN,francisco dantas,198.9
+RN,frutuoso gomes,79.99
+RN,galinhos,240.0
+RN,goianinha,325.3
+RN,governador dix-sept rosado,159.9
+RN,guamare,156.8
+RN,ielmo marinho,148.7
+RN,ipueira,169.99
+RN,itau,666.8
+RN,jandaira,109.9
+RN,janduis,84.99
+RN,japi,229.9
+RN,jardim de piranhas,23.9
+RN,jardim do serido,445.9
+RN,joao camara,1379.8
+RN,jose da penha,159.99
+RN,jucurutu,632.98
+RN,lagoa d'anta,170.0
+RN,lagoa de velhos,199.0
+RN,lagoa nova,113.8
+RN,lagoa salgada,30.24
+RN,macaiba,574.44
+RN,macau,998.88
+RN,marcelino vieira,117.7
+RN,martins,177.89
+RN,messias targino,59.9
+RN,montanhas,325.0
+RN,monte alegre,19.99
+RN,mossoro,4875.46
+RN,natal,35367.58
+RN,nova cruz,462.88
+RN,parelhas,1233.89
+RN,parnamirim,7370.67
+RN,patu,144.49
+RN,pau dos ferros,2745.55
+RN,pedra preta,49.9
+RN,pedro velho,61.99
+RN,pendencias,326.5
+RN,poco de pedra,174.0
+RN,portalegre,408.8
+RN,riacho da cruz,129.9
+RN,rodolfo fernandes,99.89
+RN,santa cruz,503.84
+RN,santa maria,19.83
+RN,santana do serido,779.7
+RN,santo antonio,471.8
+RN,sao fernando,125.9
+RN,sao goncalo do amarante,904.78
+RN,sao joao do sabugi,26.9
+RN,sao jose de mipibu,821.69
+RN,sao jose do campestre,289.0
+RN,sao jose do serido,149.9
+RN,sao miguel,846.86
+RN,sao miguel do gostoso,398.9
+RN,sao paulo do potengi,229.9
+RN,sao rafael,19.9
+RN,sao tome,27.99
+RN,sao vicente,264.89
+RN,serra de sao bento,236.9
+RN,severiano melo,120.0
+RN,sitio novo,149.9
+RN,tenente ananias,229.9
+RN,tibau do sul,99.99
+RN,upanema,1343.6
+RN,vera cruz,39.99
+RN,vicosa,50.9
+RN,vila flor,99.73
+RO,alta floresta d'oeste,669.89
+RO,alto paraiso,1200.0
+RO,alvorada d'oeste,359.98
+RO,ariquemes,4124.97
+RO,buritis,240.98
+RO,cabixi,149.9
+RO,cacaulandia,72.9
+RO,cacoal,1801.47
+RO,candeias do jamari,279.0
+RO,castanheiras,42.9
+RO,cerejeiras,117.99
+RO,colorado do oeste,199.88
+RO,costa marques,1534.9
+RO,cujubim,89.9
+RO,espigao do oeste,706.68
+RO,extrema,985.8
+RO,guajara-mirim,118.89
+RO,jaru,660.59
+RO,ji-parana,3412.04
+RO,machadinho d'oeste,396.98
+RO,ministro andreazza,69.9
+RO,mirante da serra,120.9
+RO,mutum parana,39.9
+RO,nova brasilandia d'oeste,402.8
+RO,nova mamore,594.9
+RO,ouro preto do oeste,437.49
+RO,pimenta bueno,1243.79
+RO,porto velho,21938.53
+RO,presidente medici,119.89
+RO,rolim de moura,465.05
+RO,sao francisco do guapore,284.9
+RO,sao miguel do guapore,399.44
+RO,seringueiras,395.99
+RO,urupa,253.57
+RO,vilhena,2207.95
+RR,boa vista,7657.04
+RR,bonfim,89.9
+RS,acegua,209.9
+RS,agua santa,163.9
+RS,aguas claras,95.8
+RS,agudo,17.0
+RS,ajuricaba,191.9
+RS,alegrete,4483.77
+RS,alegria,39.9
+RS,almirante tamandare do sul,49.9
+RS,alpestre,118.9
+RS,alto alegre,139.9
+RS,alvorada,6207.73
+RS,ametista do sul,242.8
+RS,andre da rocha,119.0
+RS,anta gorda,577.7
+RS,antonio prado,554.2
+RS,ararica,187.0
+RS,aratiba,92.5
+RS,arroio do meio,1425.21
+RS,arroio do sal,918.97
+RS,arroio do tigre,285.0
+RS,arroio dos ratos,1034.18
+RS,arroio grande,336.77
+RS,arvorezinha,262.5
+RS,augusto pestana,76.88
+RS,aurea,409.5
+RS,bage,9305.65
+RS,balneario pinhal,898.57
+RS,barao,31.9
+RS,barao de cotegipe,126.89
+RS,barao do triunfo,79.99
+RS,barra do ribeiro,553.78
+RS,barra do rio azul,99.0
+RS,barracao,98.49
+RS,barros cassal,729.0
+RS,bento goncalves,6828.56
+RS,boa vista das missoes,349.9
+RS,boa vista do burica,229.99
+RS,boa vista do cadeado,429.98
+RS,boa vista do sul,27.99
+RS,bom principio,1003.11
+RS,bom retiro do sul,1379.0
+RS,boqueirao do leao,227.9
+RS,bossoroca,155.99
+RS,butia,1112.69
+RS,cacapava do sul,859.99
+RS,cacequi,286.99
+RS,cachoeira do sul,6238.42
+RS,cachoeirinha,9297.25
+RS,caibate,357.88
+RS,camaqua,1716.75
+RS,cambara do sul,372.0
+RS,campestre da serra,1348.99
+RS,campina das missoes,155.8
+RS,campinas do sul,1398.89
+RS,campo bom,4394.71
+RS,campo novo,539.79
+RS,campos borges,825.89
+RS,candelaria,573.39
+RS,candido godoi,900.0
+RS,candiota,802.7
+RS,canela,2418.63
+RS,cangucu,1584.98
+RS,canoas,26695.35
+RS,capao da canoa,4692.09
+RS,capao da porteira,157.0
+RS,capao do cipo,260.0
+RS,capao do leao,1072.25
+RS,capela de santana,352.0
+RS,capitao,107.8
+RS,capivari do sul,159.0
+RS,carazinho,2030.93
+RS,carlos barbosa,2554.79
+RS,casca,1326.27
+RS,caseiros,109.9
+RS,catuipe,539.8
+RS,caxias do sul,37833.07
+RS,cerrito,59.9
+RS,cerro grande,52.9
+RS,cerro grande do sul,184.0
+RS,cerro largo,712.87
+RS,chapada,1463.19
+RS,charqueadas,1721.41
+RS,charrua,125.0
+RS,chiapetta,129.99
+RS,chui,818.7
+RS,cidreira,656.12
+RS,ciriaco,229.0
+RS,colinas,32.99
+RS,colorado,202.7
+RS,condor,181.8
+RS,constantina,330.0
+RS,coqueiro baixo,86.99
+RS,coqueiros do sul,25.73
+RS,cotipora,112.0
+RS,coxilha,115.9
+RS,crissiumal,1589.0
+RS,cristal,533.0
+RS,cruz alta,3152.1
+RS,cruzeiro do sul,2247.89
+RS,david canabarro,167.88
+RS,dezesseis de novembro,79.9
+RS,dois irmaos,3398.76
+RS,dom feliciano,452.05
+RS,dom pedrito,1461.93
+RS,dona francisca,258.7
+RS,eldorado do sul,1853.48
+RS,encantado,2807.17
+RS,encruzilhada do sul,903.99
+RS,entre-ijuis,454.5
+RS,erebango,119.99
+RS,erechim,6478.28
+RS,erval grande,395.9
+RS,esmeralda,145.0
+RS,espumoso,1210.71
+RS,estacao,704.1
+RS,estancia velha,2782.1
+RS,esteio,6521.86
+RS,estrela,2217.15
+RS,estrela velha,14.9
+RS,eugenio de castro,97.0
+RS,farroupilha,3213.03
+RS,faxinalzinho,39.8
+RS,fazenda vilanova,157.8
+RS,feliz,2523.43
+RS,flores da cunha,1473.35
+RS,fontoura xavier,199.0
+RS,formigueiro,279.8
+RS,fortaleza dos valos,100.0
+RS,frederico westphalen,1053.45
+RS,garibaldi,1014.8
+RS,garruchos,62.9
+RS,gaurama,277.88
+RS,general camara,89.0
+RS,getulio vargas,746.61
+RS,girua,1335.28
+RS,glorinha,249.8
+RS,gramado,3176.24
+RS,gramado dos loureiros,209.99
+RS,gramado xavier,52.9
+RS,gravatai,19110.02
+RS,guabiju,33.6
+RS,guaiba,5417.51
+RS,guapore,3153.15
+RS,guarani das missoes,68.66
+RS,herval,199.89
+RS,herveiras,109.0
+RS,horizontina,576.54
+RS,hulha negra,329.0
+RS,ibarama,149.0
+RS,ibiaca,278.89
+RS,ibiraiaras,232.98
+RS,ibiruba,3252.8
+RS,igrejinha,1173.03
+RS,ijui,5584.45
+RS,ilopolis,181.8
+RS,imbe,2727.95
+RS,imigrante,305.9
+RS,ipe,173.9
+RS,ipiranga,79.0
+RS,ipiranga do sul,109.9
+RS,irai,557.89
+RS,itaara,56.99
+RS,itaqui,1154.38
+RS,itatiba do sul,39.9
+RS,ivora,149.9
+RS,ivoti,1235.11
+RS,jacuizinho,59.54
+RS,jacutinga,49.39
+RS,jaguarao,1025.29
+RS,jaguari,157.89
+RS,jaquirana,499.0
+RS,jari,354.8
+RS,julio de castilhos,787.54
+RS,lagoa dos tres cantos,74.9
+RS,lagoa vermelha,1616.25
+RS,lagoao,156.45
+RS,lajeado,8068.41
+RS,lavras do sul,593.8
+RS,liberato salzano,12.99
+RS,lindolfo collor,110.9
+RS,macambara,162.74
+RS,machadinho,48.0
+RS,mampituba,40.95
+RS,manoel viana,208.79
+RS,maquine,122.99
+RS,marau,2167.34
+RS,mariano moro,125.0
+RS,marques de souza,29.9
+RS,mata,399.85
+RS,mato leitao,179.0
+RS,maximiliano de almeida,363.49
+RS,minas do leao,256.0
+RS,miraguai,169.97
+RS,montauri,429.89
+RS,monte alverne,268.0
+RS,monte belo do sul,79.98
+RS,monte bonito,29.5
+RS,montenegro,4910.6
+RS,morro redondo,209.9
+RS,morro reuter,627.34
+RS,mostardas,1517.83
+RS,muliterno,235.0
+RS,nao-me-toque,859.68
+RS,nonoai,175.9
+RS,nova alvorada,261.8
+RS,nova araca,119.99
+RS,nova bassano,387.24
+RS,nova boa vista,52.9
+RS,nova brescia,48.9
+RS,nova esperanca do sul,259.4
+RS,nova hartz,618.88
+RS,nova padua,69.9
+RS,nova palma,428.9
+RS,nova petropolis,459.89
+RS,nova prata,1230.94
+RS,nova roma do sul,1106.99
+RS,nova santa rita,954.78
+RS,novo barreiro,197.59
+RS,novo cabrais,55.0
+RS,novo hamburgo,19797.09
+RS,novo machado,59.99
+RS,osorio,6251.24
+RS,osvaldo kroeff,239.99
+RS,padre gonzales,50.0
+RS,palmares do sul,435.77
+RS,palmeira das missoes,1559.51
+RS,palmitinho,271.69
+RS,panambi,3619.09
+RS,pantano grande,297.79
+RS,parai,233.4
+RS,paraiso do sul,28.99
+RS,pareci novo,22.0
+RS,parobe,1660.58
+RS,passo fundo,15163.71
+RS,pedras altas,89.9
+RS,pedro osorio,692.45
+RS,pejucara,699.65
+RS,pelotas,22387.13
+RS,picada cafe,32.0
+RS,pinhal da serra,19.9
+RS,pinheiro machado,542.89
+RS,pinto bandeira,49.9
+RS,piratini,69.9
+RS,planalto,292.99
+RS,polo petroquimico de triunfo,5.6
+RS,pontao,44.9
+RS,portao,772.15
+RS,porto alegre,189617.02
+RS,porto lucena,59.89
+RS,porto xavier,564.46
+RS,pouso novo,54.9
+RS,presidente lucena,16.99
+RS,progresso,215.0
+RS,protasio alves,122.9
+RS,putinga,144.8
+RS,quarai,2402.99
+RS,quevedos,90.9
+RS,rainha do mar,59.9
+RS,redentora,354.59
+RS,restinga seca,254.69
+RS,rio dos indios,79.9
+RS,rio grande,16516.78
+RS,rio pardo,687.88
+RS,roca sales,177.9
+RS,rodeio bonito,212.8
+RS,rolante,1044.15
+RS,ronda alta,1544.33
+RS,roque gonzales,542.88
+RS,rosario do sul,933.25
+RS,salto do jacui,196.36
+RS,salvador do sul,179.0
+RS,sananduva,453.77
+RS,santa barbara do sul,143.8
+RS,santa clara do sul,339.99
+RS,santa cruz do sul,10320.89
+RS,santa maria,31765.81
+RS,santa maria do herval,99.99
+RS,santa rosa,2997.04
+RS,santa vitoria do palmar,1750.75
+RS,santana da boa vista,79.89
+RS,santana do livramento,4248.23
+RS,santiago,2304.7
+RS,santo angelo,5303.46
+RS,santo antonio da patrulha,4150.09
+RS,santo antonio das missoes,393.89
+RS,santo antonio do palma,73.89
+RS,santo antonio do planalto,189.0
+RS,santo augusto,1165.08
+RS,santo cristo,609.45
+RS,santo expedito do sul,209.99
+RS,sao borja,2124.74
+RS,sao francisco de assis,109.89
+RS,sao francisco de paula,520.79
+RS,sao gabriel,2362.85
+RS,sao jeronimo,569.75
+RS,sao joao da urtiga,139.9
+RS,sao jorge,63.99
+RS,sao jose do hortencio,322.89
+RS,sao jose do inhacora,77.99
+RS,sao jose do norte,548.5
+RS,sao jose do ouro,411.38
+RS,sao leopoldo,11064.67
+RS,sao lourenco do sul,2135.38
+RS,sao luiz gonzaga,3298.01
+RS,sao marcos,816.42
+RS,sao martinho,305.99
+RS,sao nicolau,122.99
+RS,sao paulo das missoes,404.87
+RS,sao pedro do butia,99.9
+RS,sao pedro do sul,98.7
+RS,sao sebastiao do cai,2087.84
+RS,sao sepe,544.35
+RS,sao valentim,557.89
+RS,sao vendelino,155.98
+RS,sapiranga,3660.6
+RS,sapucaia do sul,5683.84
+RS,sarandi,177.39
+RS,seberi,130.39
+RS,segredo,29.94
+RS,selbach,49.9
+RS,senador salgado filho,83.8
+RS,serafina correa,813.66
+RS,serio,22.9
+RS,sertao,309.49
+RS,sertao santana,20.9
+RS,sete de setembro,54.9
+RS,silveira martins,119.8
+RS,sinimbu,81.78
+RS,sobradinho,323.9
+RS,soledade,568.79
+RS,tapejara,1036.23
+RS,tapera,61.8
+RS,tapes,797.35
+RS,taquara,4427.54
+RS,taquari,1619.28
+RS,taquarucu do sul,70.0
+RS,tavares,176.99
+RS,tenente portela,482.79
+RS,terra de areia,1137.29
+RS,teutonia,1493.6
+RS,tiradentes do sul,46.86
+RS,toropi,1529.9
+RS,torres,1416.23
+RS,tramandai,2703.52
+RS,travesseiro,16.6
+RS,tres arroios,170.27
+RS,tres cachoeiras,646.27
+RS,tres coroas,774.37
+RS,tres de maio,1969.05
+RS,tres forquilhas,82.8
+RS,tres passos,1270.21
+RS,trindade do sul,3266.99
+RS,triunfo,1918.53
+RS,tucunduva,374.99
+RS,tupancireta,378.77
+RS,tupandi,285.99
+RS,tuparendi,183.49
+RS,uniao da serra,18.5
+RS,unistalda,37.9
+RS,uruguaiana,4414.06
+RS,vacaria,2540.07
+RS,vale do sol,21.99
+RS,vale real,210.53
+RS,vanini,89.0
+RS,venancio aires,2764.62
+RS,vera cruz,579.98
+RS,veranopolis,2394.04
+RS,vespasiano correa,144.99
+RS,viamao,6655.1
+RS,vicente dutra,12.99
+RS,victor graeff,142.8
+RS,vila flores,289.89
+RS,vila langaro,140.64
+RS,vila nova do sul,84.99
+RS,vista alegre,22.0
+RS,vitoria das missoes,33.8
+RS,xangri-la,1013.58
+SC,abdon batista,125.4
+SC,abelardo luz,679.7
+SC,agrolandia,49.9
+SC,agronomica,204.87
+SC,agua doce,289.98
+SC,aguas frias,290.0
+SC,aguas mornas,89.15
+SC,alfredo wagner,794.8
+SC,anchieta,302.7
+SC,angelina,126.99
+SC,anita garibaldi,256.78
+SC,anitapolis,608.99
+SC,antonio carlos,215.8
+SC,apiuna,1320.6
+SC,araquari,993.25
+SC,ararangua,2246.55
+SC,armazem,249.9
+SC,arroio trinta,169.9
+SC,arvoredo,34.3
+SC,ascurra,342.6
+SC,atalanta,263.99
+SC,aurora,371.9
+SC,balneario arroio do silva,379.88
+SC,balneario barra do sul,333.4
+SC,balneario camboriu,16958.38
+SC,balneario gaivota,282.3
+SC,balneario picarras,1501.81
+SC,balneario rincao,393.0
+SC,barra velha,1684.01
+SC,belmonte,149.7
+SC,benedito novo,825.94
+SC,biguacu,4301.2
+SC,blumenau,24885.35
+SC,bom jesus,819.89
+SC,bom retiro,70.0
+SC,bombinhas,1935.41
+SC,botuvera,181.9
+SC,braco do norte,2962.47
+SC,brusque,8421.55
+SC,cacador,4569.38
+SC,caibi,132.05
+SC,calmon,49.9
+SC,camboriu,3118.18
+SC,campo alegre,178.9
+SC,campo ere,560.6
+SC,campos novos,1929.69
+SC,canelinha,933.94
+SC,canoinhas,4583.01
+SC,capinzal,1220.55
+SC,capivari de baixo,876.89
+SC,catanduvas,690.79
+SC,caxambu do sul,19.5
+SC,celso ramos,1136.79
+SC,cerro negro,118.0
+SC,chapadao do lageado,272.7
+SC,chapeco,15322.25
+SC,cocal do sul,2015.29
+SC,concordia,5963.39
+SC,coronel freitas,79.99
+SC,coronel martins,121.3
+SC,correia pinto,1454.23
+SC,corupa,434.65
+SC,criciuma,15422.08
+SC,cunha pora,645.42
+SC,curitibanos,2878.94
+SC,dionisio cerqueira,428.0
+SC,dona emma,30.21
+SC,faxinal dos guedes,1402.74
+SC,florianopolis,85790.99
+SC,forquilhinha,1143.85
+SC,fragosos,99.99
+SC,fraiburgo,2715.57
+SC,frei rogerio,99.9
+SC,galvao,59.5
+SC,garopaba,2693.08
+SC,garuva,1467.38
+SC,gaspar,10613.14
+SC,governador celso ramos,389.97
+SC,grao para,220.8
+SC,gravatal,520.29
+SC,guabiruba,688.78
+SC,guaraciaba,54.9
+SC,guaramirim,1377.08
+SC,guaruja do sul,331.44
+SC,herval d'oeste,1106.74
+SC,ibiam,382.99
+SC,ibicare,227.4
+SC,ibirama,1026.5
+SC,icara,2317.34
+SC,ilhota,749.14
+SC,imbituba,3866.34
+SC,imbuia,1501.88
+SC,indaial,3334.74
+SC,iomere,49.0
+SC,ipira,130.2
+SC,ipora do oeste,509.85
+SC,ipumirim,281.41
+SC,irani,294.39
+SC,irineopolis,212.82
+SC,ita,317.89
+SC,itaiopolis,1313.59
+SC,itajai,19348.57
+SC,itapema,6109.87
+SC,itapiranga,2667.18
+SC,itapoa,849.67
+SC,ituporanga,3225.16
+SC,jabora,267.9
+SC,jacinto machado,260.49
+SC,jaguaruna,162.9
+SC,jaragua do sul,12966.56
+SC,joacaba,4721.0
+SC,joinville,34772.57
+SC,jose boiteux,119.7
+SC,lages,11281.11
+SC,laguna,2202.73
+SC,lajeado grande,130.0
+SC,laurentino,782.41
+SC,lauro muller,1449.57
+SC,lebon regis,53.9
+SC,leoberto leal,24.99
+SC,lindoia do sul,103.9
+SC,lontras,402.5
+SC,luiz alves,114.0
+SC,macieira,17.46
+SC,mafra,1732.23
+SC,major vieira,256.89
+SC,maracana,238.0
+SC,maravilha,497.17
+SC,massaranduba,347.86
+SC,meleiro,210.8
+SC,mondai,409.0
+SC,monte carlo,309.5
+SC,monte castelo,78.0
+SC,morro da fumaca,1676.0
+SC,morro grande,119.8
+SC,navegantes,6783.17
+SC,nossa senhora de caravaggio,280.0
+SC,nova erechim,254.79
+SC,nova itaberaba,308.89
+SC,nova trento,870.6
+SC,nova veneza,422.89
+SC,novo horizonte,74.9
+SC,orleans,1408.59
+SC,otacilio costa,913.29
+SC,ouro,278.79
+SC,paial,139.99
+SC,palhoca,11440.12
+SC,palma sola,938.8
+SC,palmeira,626.9
+SC,palmitos,667.9
+SC,papanduva,669.41
+SC,paraiso,79.9
+SC,passo de torres,587.99
+SC,passos maia,208.9
+SC,paulo lopes,238.99
+SC,penha,2298.09
+SC,peritiba,106.9
+SC,petrolandia,589.85
+SC,picarras,155.0
+SC,pinhalzinho,816.86
+SC,piratuba,958.98
+SC,pomerode,1579.36
+SC,ponte alta do norte,39.99
+SC,ponte serrada,423.9
+SC,porto belo,856.32
+SC,porto uniao,3023.65
+SC,pouso redondo,597.29
+SC,praia grande,452.74
+SC,presidente castello branco,19.9
+SC,presidente getulio,654.18
+SC,presidente nereu,52.99
+SC,quilombo,174.78
+SC,rancho queimado,312.89
+SC,rio das antas,176.8
+SC,rio do campo,674.95
+SC,rio do oeste,364.89
+SC,rio do sul,4777.85
+SC,rio dos cedros,49.9
+SC,rio fortuna,469.39
+SC,rio negrinho,1121.19
+SC,rio rufino,59.0
+SC,riqueza,248.9
+SC,rodeio,849.66
+SC,romelandia,159.99
+SC,salto veloso,219.8
+SC,sangao,264.79
+SC,santa cecilia,856.22
+SC,santa cruz do timbo,30.99
+SC,santa rosa de lima,180.15
+SC,santa rosa do sul,199.0
+SC,santa terezinha,49.9
+SC,santo amaro da imperatriz,3007.31
+SC,sao bento do sul,4869.9
+SC,sao bernardino,189.9
+SC,sao bonifacio,101.0
+SC,sao carlos,500.38
+SC,sao cristovao do sul,118.99
+SC,sao domingos,148.99
+SC,sao francisco do sul,1648.08
+SC,sao joao batista,1675.22
+SC,sao joao do itaperiu,755.99
+SC,sao joao do sul,861.0
+SC,sao joaquim,1118.98
+SC,sao jose,19970.57
+SC,sao jose do cedro,486.59
+SC,sao jose do cerrito,278.89
+SC,sao lourenco do oeste,911.37
+SC,sao ludgero,673.32
+SC,sao martinho,451.0
+SC,sao miguel do oeste,6155.72
+SC,sao pedro de alcantara,263.0
+SC,saudades,305.84
+SC,schroeder,1168.69
+SC,seara,730.85
+SC,sideropolis,299.7
+SC,sombrio,1225.82
+SC,taio,5965.23
+SC,tangara,354.9
+SC,tijucas,3504.74
+SC,timbe do sul,212.79
+SC,timbo,3957.67
+SC,tres barras,297.34
+SC,treviso,118.9
+SC,treze tilias,885.66
+SC,trombudo central,182.89
+SC,tubarao,10606.13
+SC,tunapolis,315.39
+SC,turvo,194.89
+SC,uniao do oeste,24.99
+SC,urubici,305.69
+SC,urussanga,893.68
+SC,vargeao,499.9
+SC,vargem bonita,710.59
+SC,videira,8107.6
+SC,witmarsum,147.79
+SC,xanxere,3576.27
+SC,xavantina,176.02
+SC,xaxim,1718.58
+SC,zortea,99.8
+SE,aquidaba,89.0
+SE,aracaju,36495.78
+SE,barra dos coqueiros,484.82
+SE,boquim,163.9
+SE,brejo grande,249.0
+SE,campo do brito,76.8
+SE,caninde de sao francisco,250.8
+SE,capela,580.94
+SE,carmopolis,87.31
+SE,cedro de sao joao,1999.99
+SE,cristinapolis,77.9
+SE,estancia,2594.65
+SE,general maynard,197.5
+SE,graccho cardoso,610.0
+SE,indiaroba,48.0
+SE,itabaiana,3185.67
+SE,itabaianinha,157.8
+SE,itabi,89.9
+SE,itaporanga d'ajuda,159.99
+SE,japaratuba,99.99
+SE,japoata,179.9
+SE,lagarto,1955.43
+SE,macambira,173.9
+SE,malhador,23.99
+SE,monte alegre de sergipe,80.0
+SE,neopolis,235.0
+SE,nossa senhora da gloria,59.9
+SE,nossa senhora das dores,559.0
+SE,nossa senhora de lourdes,79.99
+SE,nossa senhora do socorro,2282.92
+SE,pinhao,420.0
+SE,pirambu,289.0
+SE,poco redondo,419.8
+SE,poco verde,447.8
+SE,propria,483.89
+SE,riachuelo,39.97
+SE,ribeiropolis,65.0
+SE,santo amaro das brotas,19.9
+SE,sao cristovao,618.69
+SE,sao francisco,869.0
+SE,sao miguel do aleixo,20.0
+SE,simao dias,828.48
+SE,telha,212.4
+SE,tobias barreto,209.99
+SE,tomar do geru,228.79
+SE,umbauba,178.9
+SP,adamantina,5425.97
+SP,adolfo,373.8
+SP,agisse,43.0
+SP,aguai,2111.48
+SP,aguas da prata,1028.28
+SP,aguas de lindoia,3092.59
+SP,aguas de santa barbara,154.9
+SP,aguas de sao pedro,274.99
+SP,agudos,1265.3
+SP,ajapi,108.0
+SP,alambari,179.88
+SP,alfredo marcondes,129.0
+SP,altinopolis,1428.8
+SP,aluminio,1252.15
+SP,alvares florence,185.76
+SP,alvares machado,4022.57
+SP,alvaro de carvalho,358.0
+SP,americana,24926.37
+SP,americo brasiliense,2360.1
+SP,americo de campos,279.9
+SP,amparo,11751.58
+SP,analandia,511.03
+SP,andradina,6794.42
+SP,angatuba,818.75
+SP,anhembi,106.9
+SP,anhumas,58.99
+SP,aparecida,3740.96
+SP,aparecida d'oeste,19.9
+SP,aparecida de monte alto,179.9
+SP,aparecida de sao manuel,226.3
+SP,apiai,547.57
+SP,aracariguama,694.85
+SP,aracatuba,16733.59
+SP,aracoiaba da serra,1511.57
+SP,aramina,97.9
+SP,arandu,345.5
+SP,arapei,324.89
+SP,araraquara,20352.07
+SP,araras,13327.37
+SP,arealva,266.68
+SP,areias,441.86
+SP,areiopolis,896.49
+SP,ariranha,531.49
+SP,artur nogueira,6029.68
+SP,aruja,7614.78
+SP,assis,12199.23
+SP,atibaia,20913.21
+SP,auriflama,1871.66
+SP,avai,179.99
+SP,avanhandava,757.68
+SP,avare,8382.97
+SP,bady bassitt,594.7
+SP,balbinos,55.32
+SP,balsamo,1257.23
+SP,bananal,716.65
+SP,bandeirantes d'oeste,49.99
+SP,barao ataliba nogueira,1300.0
+SP,bariri,2706.45
+SP,barra bonita,4122.43
+SP,barra do turvo,293.9
+SP,barretos,9500.97
+SP,barrinha,3036.93
+SP,barueri,51188.45
+SP,bastos,1399.6
+SP,batatais,5574.8
+SP,bauru,39462.26
+SP,bebedouro,4884.9
+SP,bento de abreu,327.98
+SP,bernardino de campos,256.09
+SP,bertioga,9520.55
+SP,bilac,710.52
+SP,birigui,14611.34
+SP,biritiba-mirim,1381.72
+SP,boa esperanca do sul,836.9
+SP,bocaina,1391.9
+SP,bofete,2157.59
+SP,boituva,7412.05
+SP,bom jesus dos perdoes,1608.73
+SP,bonfim paulista,2457.37
+SP,bora,119.9
+SP,boraceia,29.0
+SP,borborema,842.95
+SP,botelho,189.98
+SP,botucatu,17179.5
+SP,braganca paulista,20127.62
+SP,brauna,400.79
+SP,brodowski,1020.54
+SP,brotas,1073.08
+SP,buri,938.32
+SP,buritama,1024.24
+SP,buritizal,66.99
+SP,cabralia paulista,207.29
+SP,cabreuva,720.6
+SP,cacapava,10160.07
+SP,cachoeira paulista,3292.0
+SP,caconde,1628.19
+SP,cafelandia,729.2
+SP,caieiras,13624.52
+SP,caiua,146.0
+SP,cajamar,9873.27
+SP,cajati,1821.32
+SP,cajobi,1018.43
+SP,cajuru,643.76
+SP,campina do monte alegre,237.9
+SP,campinas,187347.95
+SP,campo limpo paulista,5013.34
+SP,campos do jordao,3261.1
+SP,cananeia,727.66
+SP,candido mota,1573.29
+SP,candido rodrigues,81.79
+SP,canitar,287.25
+SP,capao bonito,3078.97
+SP,capela do alto,833.99
+SP,capivari,4678.26
+SP,caraguatatuba,13408.16
+SP,carapicuiba,32275.35
+SP,cardoso,944.81
+SP,casa branca,1130.58
+SP,cassia dos coqueiros,74.9
+SP,castilho,2822.21
+SP,catanduva,10149.83
+SP,catigua,668.57
+SP,cedral,458.34
+SP,cerqueira cesar,3701.52
+SP,cerquilho,3299.91
+SP,cesario lange,1966.5
+SP,charqueada,993.77
+SP,chavantes,926.52
+SP,cipo-guacu,69.99
+SP,clementina,397.54
+SP,colina,608.68
+SP,colombia,377.72
+SP,conchal,2075.24
+SP,conchas,1213.02
+SP,cordeiropolis,1338.05
+SP,coroados,209.9
+SP,coronel macedo,92.9
+SP,corumbatai,49.59
+SP,cosmopolis,6747.8
+SP,cosmorama,973.98
+SP,cotia,31052.39
+SP,cravinhos,2363.95
+SP,cristais paulista,543.78
+SP,cruzalia,292.4
+SP,cruzeiro,6109.5
+SP,cubatao,6996.03
+SP,cunha,2845.12
+SP,descalvado,1231.74
+SP,diadema,29362.27
+SP,divinolandia,1370.68
+SP,dobrada,437.5
+SP,dois corregos,1233.69
+SP,dourado,920.43
+SP,dracena,4538.05
+SP,duartina,1252.67
+SP,dumont,714.7
+SP,echapora,787.47
+SP,eldorado,524.76
+SP,elias fausto,396.4
+SP,elisiario,49.0
+SP,embauba,399.0
+SP,embu,1517.88
+SP,embu das artes,20727.72
+SP,embu-guacu,6244.68
+SP,emilianopolis,169.85
+SP,engenheiro balduino,179.6
+SP,engenheiro coelho,1089.47
+SP,espigao,74.89
+SP,espirito santo do pinhal,2160.02
+SP,espirito santo do turvo,229.7
+SP,estiva gerbi,964.26
+SP,estrela d oeste,134.9
+SP,estrela d'oeste,227.07
+SP,estrela do norte,173.79
+SP,euclides da cunha paulista,163.25
+SP,fartura,1771.41
+SP,fernando prestes,591.48
+SP,fernandopolis,7445.06
+SP,fernao,29.0
+SP,ferraz de vasconcelos,15618.38
+SP,flora rica,200.0
+SP,floreal,192.89
+SP,florida paulista,353.79
+SP,florinia,41.5
+SP,franca,22443.73
+SP,francisco morato,9365.31
+SP,franco da rocha,10122.2
+SP,gabriel monteiro,34.9
+SP,galia,199.0
+SP,garca,3013.41
+SP,gastao vidigal,216.88
+SP,gaviao peixoto,94.89
+SP,general salgado,493.59
+SP,getulina,99.8
+SP,glicerio,333.99
+SP,guaicara,767.23
+SP,guaira,3698.54
+SP,guapiacu,906.98
+SP,guapiara,210.29
+SP,guara,1093.7
+SP,guaracai,541.49
+SP,guaraci,479.8
+SP,guaranta,569.29
+SP,guarapua,60.0
+SP,guararapes,3370.84
+SP,guararema,1189.56
+SP,guaratingueta,14751.12
+SP,guarei,1098.29
+SP,guariba,1608.43
+SP,guariroba,289.99
+SP,guaruja,29773.76
+SP,guarulhos,144188.49
+SP,guatapara,75.0
+SP,guzolandia,101.62
+SP,herculandia,184.89
+SP,holambra,2719.2
+SP,holambra ii,919.68
+SP,hortolandia,16421.21
+SP,iacanga,329.39
+SP,iacri,56.98
+SP,iaras,79.99
+SP,ibate,1652.59
+SP,ibira,808.73
+SP,ibirarema,426.88
+SP,ibitinga,2911.26
+SP,ibitiuva,14.9
+SP,ibiuna,3439.52
+SP,icem,885.97
+SP,iepe,289.58
+SP,igaracu do tiete,107.69
+SP,igarapava,791.09
+SP,igarata,764.09
+SP,iguape,1359.57
+SP,ilha comprida,212.98
+SP,ilha solteira,2299.44
+SP,ilhabela,3286.28
+SP,indaiatuba,37234.2
+SP,indiana,343.89
+SP,indiapora,356.67
+SP,inubia paulista,304.98
+SP,ipaussu,1228.72
+SP,ipero,2659.28
+SP,ipigua,247.24
+SP,ipua,2031.49
+SP,iracemapolis,1251.88
+SP,irape,379.98
+SP,irapua,198.8
+SP,irapuru,889.48
+SP,itabera,1366.14
+SP,itai,1757.58
+SP,itajobi,1653.95
+SP,itaju,927.8
+SP,itanhaem,10506.24
+SP,itaoca,55.8
+SP,itapecerica da serra,8738.78
+SP,itapetininga,12232.88
+SP,itapeva,6360.23
+SP,itapevi,18348.91
+SP,itapira,7519.54
+SP,itapirapua paulista,479.8
+SP,itapolis,3363.99
+SP,itaporanga,2237.28
+SP,itapui,1307.09
+SP,itapura,351.87
+SP,itaquaquecetuba,18415.25
+SP,itarare,3915.3
+SP,itariri,1259.32
+SP,itatiba,12049.31
+SP,itatinga,1760.15
+SP,itirapina,142.9
+SP,itobi,472.68
+SP,itu,12637.13
+SP,itupeva,5355.51
+SP,ituverava,3783.73
+SP,jaborandi,126.29
+SP,jaboticabal,6706.02
+SP,jacare,810.04
+SP,jacarei,18456.23
+SP,jaci,115.89
+SP,jacupiranga,785.8
+SP,jaguariuna,8312.47
+SP,jales,3173.05
+SP,jamaica,59.0
+SP,jambeiro,329.26
+SP,jandira,8260.47
+SP,jardinopolis,1600.05
+SP,jarinu,1450.38
+SP,jau,9460.56
+SP,jeriquara,129.0
+SP,joanopolis,824.6
+SP,joao ramalho,407.89
+SP,jose bonifacio,1486.34
+SP,julio mesquita,909.99
+SP,jumirim,337.6
+SP,jundiai,81324.79
+SP,junqueiropolis,2029.24
+SP,juquia,710.08
+SP,juquitiba,3073.87
+SP,lagoinha,605.98
+SP,laranjal paulista,2209.33
+SP,lavinia,326.8
+SP,lavrinhas,599.9
+SP,leme,7858.02
+SP,lencois paulista,6720.22
+SP,limeira,22151.09
+SP,lindoia,606.03
+SP,lins,9171.06
+SP,lorena,7965.02
+SP,lourdes,193.7
+SP,louveira,4777.82
+SP,lucelia,961.35
+SP,lucianopolis,142.9
+SP,luis antonio,980.08
+SP,luiziania,225.49
+SP,lupercio,133.79
+SP,lutecia,887.0
+SP,macatuba,2984.64
+SP,macaubal,89.8
+SP,macedonia,334.21
+SP,magda,458.99
+SP,mairinque,2860.12
+SP,mairipora,9087.38
+SP,manduri,239.62
+SP,maracai,1114.58
+SP,mariapolis,111.9
+SP,marilia,33904.28
+SP,marinopolis,158.88
+SP,maristela,639.32
+SP,martinopolis,3708.09
+SP,matao,7207.71
+SP,maua,43310.07
+SP,mendonca,230.37
+SP,meridiano,119.0
+SP,miguelopolis,1984.27
+SP,mineiros do tiete,216.15
+SP,mira estrela,198.0
+SP,miracatu,863.99
+SP,mirandopolis,1274.99
+SP,mirante do paranapanema,199.7
+SP,mirassol,5850.89
+SP,mococa,6295.97
+SP,mogi das cruzes,52007.78
+SP,mogi mirim,9010.97
+SP,mogi-guacu,12324.92
+SP,mogi-mirim,89.8
+SP,mombuca,107.14
+SP,moncoes,346.98
+SP,mongagua,5147.73
+SP,monte alegre do sul,4181.79
+SP,monte alto,2549.01
+SP,monte aprazivel,948.11
+SP,monte azul paulista,2887.91
+SP,monte castelo,91.5
+SP,monte mor,4544.84
+SP,morro agudo,1850.95
+SP,morungaba,582.69
+SP,motuca,283.9
+SP,murutinga do sul,809.0
+SP,nantes,79.0
+SP,narandiba,408.98
+SP,natividade da serra,125.0
+SP,nazare paulista,815.64
+SP,neves paulista,112.58
+SP,nhandeara,630.26
+SP,nipoa,337.8
+SP,nossa senhora do remedio,131.9
+SP,nova campina,156.5
+SP,nova canaa paulista,109.89
+SP,nova europa,634.44
+SP,nova granada,1790.33
+SP,nova guataporanga,75.0
+SP,nova independencia,23.9
+SP,nova luzitania,22.9
+SP,nova odessa,4438.61
+SP,novais,99.9
+SP,novo horizonte,2798.39
+SP,nuporanga,821.8
+SP,ocaucu,241.6
+SP,oleo,59.9
+SP,olimpia,5862.54
+SP,onda verde,69.81
+SP,oriente,1017.27
+SP,orindiuva,541.78
+SP,orlandia,4027.32
+SP,osasco,82077.96
+SP,oscar bressane,301.8
+SP,osvaldo cruz,1786.46
+SP,ourinhos,12543.03
+SP,ouro verde,307.97
+SP,ouroeste,1235.19
+SP,pacaembu,1505.29
+SP,palestina,499.55
+SP,palmares paulista,59.9
+SP,palmeira d oeste,49.9
+SP,palmeira d'oeste,319.18
+SP,palmital,1760.16
+SP,panorama,404.39
+SP,paraguacu paulista,2766.8
+SP,paraibuna,1610.99
+SP,paraiso,770.78
+SP,paranapanema,560.45
+SP,paranapua,64.99
+SP,parapua,1178.4
+SP,pardinho,272.8
+SP,pariquera-acu,1765.1
+SP,parisi,34.49
+SP,patrocinio paulista,1059.2
+SP,pauliceia,941.37
+SP,paulinia,16658.69
+SP,paulistania,99.0
+SP,paulo de faria,588.58
+SP,pederneiras,3007.07
+SP,pedra bela,460.9
+SP,pedranopolis,59.9
+SP,pedregulho,1039.4
+SP,pedreira,2893.6
+SP,pedrinhas paulista,420.87
+SP,pedro de toledo,833.11
+SP,penapolis,4776.58
+SP,pereira barreto,4294.72
+SP,pereiras,54.99
+SP,peruibe,6681.02
+SP,piacatu,51.19
+SP,piedade,2852.76
+SP,pilar do sul,1002.36
+SP,pindamonhangaba,13070.16
+SP,pindorama,368.9
+SP,pinhalzinho,1300.42
+SP,pinheiros,199.99
+SP,piquerobi,85.0
+SP,piquete,771.09
+SP,piracaia,2764.83
+SP,piracicaba,52208.08
+SP,piraju,4954.98
+SP,pirajui,1583.52
+SP,pirangi,1199.99
+SP,pirapora do bom jesus,2744.66
+SP,pirapozinho,1319.37
+SP,pirassununga,8400.34
+SP,piratininga,2449.18
+SP,pitangueiras,1362.62
+SP,planalto,69.99
+SP,poa,9263.46
+SP,poloni,163.12
+SP,pompeia,1907.08
+SP,pongai,343.8
+SP,pontal,1097.38
+SP,pontalinda,60.8
+SP,pontes gestal,89.99
+SP,populina,47.6
+SP,porangaba,166.39
+SP,porto feliz,3108.97
+SP,porto ferreira,2000.7
+SP,potim,249.8
+SP,potirendaba,823.32
+SP,pradopolis,901.0
+SP,praia grande,38948.58
+SP,presidente alves,112.61
+SP,presidente bernardes,496.85
+SP,presidente epitacio,2572.52
+SP,presidente prudente,26196.13
+SP,presidente venceslau,4030.89
+SP,primavera,996.78
+SP,promissao,4369.85
+SP,quadra,443.9
+SP,quata,3147.46
+SP,queiroz,45.0
+SP,queluz,213.74
+SP,quintana,353.0
+SP,rafard,556.4
+SP,rancharia,2713.19
+SP,rechan,288.8
+SP,redencao da serra,89.9
+SP,regente feijo,897.01
+SP,reginopolis,1552.99
+SP,registro,6288.47
+SP,ribeira,209.28
+SP,ribeirao bonito,727.29
+SP,ribeirao branco,452.99
+SP,ribeirao do sul,357.9
+SP,ribeirao pires,10149.63
+SP,ribeirao preto,65137.21
+SP,rifaina,552.8
+SP,rincao,79.0
+SP,rinopolis,104.89
+SP,rio claro,20124.58
+SP,rio das pedras,1027.64
+SP,rio grande da serra,2264.3
+SP,riolandia,398.8
+SP,riversul,89.9
+SP,rosana,236.6
+SP,roseira,423.68
+SP,rubiacea,218.8
+SP,rubineia,100.0
+SP,sabino,723.0
+SP,sales,356.52
+SP,sales oliveira,538.15
+SP,salesopolis,1146.52
+SP,salmourao,59.88
+SP,saltinho,1164.79
+SP,salto,10529.49
+SP,salto de pirapora,1130.59
+SP,salto grande,640.0
+SP,santa adelia,1609.65
+SP,santa albertina,686.39
+SP,santa barbara d oeste,170.92
+SP,santa barbara d'oeste,13251.08
+SP,santa branca,763.76
+SP,santa clara d'oeste,99.99
+SP,santa cruz da conceicao,408.9
+SP,santa cruz das palmeiras,580.59
+SP,santa cruz do rio pardo,2621.48
+SP,santa ernestina,208.16
+SP,santa fe do sul,3994.67
+SP,santa gertrudes,1194.21
+SP,santa isabel,2788.47
+SP,santa lucia,388.89
+SP,santa maria da serra,143.64
+SP,santa mercedes,226.99
+SP,santa rita d'oeste,178.57
+SP,santa rita do passa quatro,2123.97
+SP,santa rosa de viterbo,1818.22
+SP,santa salete,81.99
+SP,santana de parnaiba,23294.05
+SP,santo anastacio,1884.6
+SP,santo andre,91886.19
+SP,santo antonio da alegria,206.79
+SP,santo antonio de posse,5027.89
+SP,santo antonio do aracangua,1099.0
+SP,santo antonio do jardim,271.02
+SP,santo antonio do pinhal,1128.9
+SP,santo expedito,280.0
+SP,santos,98323.76
+SP,sao bento do sapucai,630.54
+SP,sao bernardo do campo,104438.2
+SP,sao caetano do sul,32362.7
+SP,sao carlos,29721.96
+SP,sao francisco,120.87
+SP,sao joao da boa vista,11536.91
+SP,sao joao de iracema,168.38
+SP,sao joaquim da barra,4167.52
+SP,sao jose da bela vista,310.84
+SP,sao jose do barreiro,207.59
+SP,sao jose do rio pardo,4968.24
+SP,sao jose do rio preto,47070.55
+SP,sao jose dos campos,78539.94
+SP,sao lourenco da serra,1151.95
+SP,sao luis do paraitinga,882.49
+SP,sao manuel,3278.99
+SP,sao miguel arcanjo,1311.09
+SP,sao paulo,1911821.37
+SP,sao pedro,3683.54
+SP,sao pedro do turvo,88.9
+SP,sao roque,9602.33
+SP,sao sebastiao,8785.36
+SP,sao sebastiao da grama,1024.79
+SP,sao sebastiao da serra,157.9
+SP,sao simao,1297.89
+SP,sao vicente,21107.09
+SP,sarapui,248.88
+SP,sarutaia,59.9
+SP,serra azul,72.5
+SP,serra negra,3167.63
+SP,serrana,917.9
+SP,sertaozinho,6859.23
+SP,sete barras,229.69
+SP,severinia,466.13
+SP,silveiras,406.5
+SP,socorro,2319.45
+SP,sorocaba,76704.66
+SP,sud mennucci,377.87
+SP,sumare,21487.92
+SP,suzanapolis,76.9
+SP,suzano,24999.98
+SP,tabapua,1322.96
+SP,tabatinga,389.69
+SP,taboao da serra,35733.3
+SP,taciba,348.98
+SP,taguai,707.34
+SP,taiacu,60.5
+SP,taiuva,881.54
+SP,tambau,1513.43
+SP,tanabi,1404.39
+SP,tapinas,89.99
+SP,tapirai,108.65
+SP,tapiratiba,2601.22
+SP,taquaritinga,4604.03
+SP,taquarituba,2548.52
+SP,taquarivai,674.89
+SP,tarabai,982.35
+SP,taruma,997.72
+SP,tatui,11131.23
+SP,taubate,29603.17
+SP,tecainda,149.99
+SP,tejupa,335.18
+SP,teodoro sampaio,1259.77
+SP,termas de ibira,71.9
+SP,terra roxa,465.88
+SP,tiete,4142.82
+SP,timburi,343.3
+SP,torrinha,422.67
+SP,trabiju,259.99
+SP,tremembe,4876.03
+SP,tres fronteiras,350.39
+SP,tuiuti,49.0
+SP,tupa,6483.03
+SP,tupi paulista,459.41
+SP,turmalina,28.0
+SP,ubatuba,8900.83
+SP,ubirajara,79.9
+SP,uchoa,582.64
+SP,urania,885.72
+SP,urupes,1150.14
+SP,valentim gentil,372.03
+SP,valinhos,22458.55
+SP,valparaiso,506.92
+SP,vargem,48.9
+SP,vargem grande do sul,864.6
+SP,vargem grande paulista,4634.55
+SP,varzea paulista,10780.18
+SP,venda branca,117.3
+SP,vera cruz,1052.17
+SP,vinhedo,9152.87
+SP,viradouro,2081.54
+SP,vista alegre do alto,272.99
+SP,votorantim,10901.22
+SP,votuporanga,8372.9
+SP,zacarias,198.8
+TO,alianca do tocantins,162.79
+TO,almas,78.0
+TO,alvorada,1572.47
+TO,ananas,96.8
+TO,aparecida do rio negro,115.0
+TO,araguacu,129.5
+TO,araguaina,8203.54
+TO,araguatins,681.98
+TO,arapoema,55.9
+TO,arraias,197.9
+TO,augustinopolis,107.0
+TO,bandeirantes do tocantins,369.98
+TO,barrolandia,80.99
+TO,buriti do tocantins,59.9
+TO,cariri do tocantins,270.89
+TO,carmolandia,129.0
+TO,centenario,134.99
+TO,colinas do tocantins,510.5
+TO,colmeia,105.0
+TO,combinado,29.0
+TO,conceicao do tocantins,367.97
+TO,couto de magalhaes,194.89
+TO,cristalandia,948.69
+TO,dianopolis,822.95
+TO,divinopolis do tocantins,120.99
+TO,duere,115.9
+TO,esperantina,84.44
+TO,fatima,59.9
+TO,formoso do araguaia,251.28
+TO,goianorte,184.99
+TO,guarai,1156.6
+TO,gurupi,5229.29
+TO,lagoa da confusao,699.99
+TO,lajeado,120.0
+TO,miranorte,635.9
+TO,natividade,349.9
+TO,nova olinda,29.9
+TO,novo alegre,279.99
+TO,novo jardim,23.9
+TO,palmas,17821.1
+TO,paraiso do tocantins,1799.04
+TO,parana,108.88
+TO,pedro afonso,235.89
+TO,peixe,89.99
+TO,pequizeiro,219.99
+TO,pindorama do tocantins,99.66
+TO,pium,20.0
+TO,porto nacional,1577.68
+TO,praia norte,79.0
+TO,pugmil,114.9
+TO,sandolandia,799.0
+TO,silvanopolis,229.99
+TO,sitio novo do tocantins,314.9
+TO,taguatinga,355.79
+TO,tocantinopolis,731.65
+TO,xambioa,333.68
